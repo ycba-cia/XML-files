@@ -1,0 +1,709 @@
+<record><header><identifier>oai:tms.ycba.yale.edu:64051</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>ycba:pd</setSpec>
+<setSpec>ycba:incomplete</setSpec>
+</header>
+<metadata>
+    <lido:lido 
+ xmlns:lido="http://www.lido-schema.org" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns:gml="http://www.opengis.net/gml"
+ xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lidoRecID lido:source="Yale Center for British Art" lido:type="local">YCBA/lido-TMS-64051</lido:lidoRecID>
+ <lido:category> 
+  <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+        <lido:term xml:lang="eng">Man-Made Object</lido:term>
+    </lido:category>
+ 
+ <lido:descriptiveMetadata xml:lang="eng">
+ 
+ 
+  <lido:objectClassificationWrap>
+   
+   <lido:objectWorkTypeWrap> 
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Object name">300178376</lido:conceptID>
+     <lido:term>planographic print</lido:term>
+ 
+    </lido:objectWorkType>
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="YCBA" lido:type="Genre">9</lido:conceptID>
+     <lido:term>genre subject</lido:term>
+ 
+    </lido:objectWorkType>
+    
+   </lido:objectWorkTypeWrap>
+ 
+   
+   <lido:classificationWrap>
+   
+    <lido:classification>
+     <lido:conceptID lido:source="AAT" lido:type="Classification">300041273</lido:conceptID>
+     <lido:term>Print</lido:term>
+    </lido:classification>
+   
+   </lido:classificationWrap>
+ 
+  </lido:objectClassificationWrap>
+  
+  
+  
+  <lido:objectIdentificationWrap>
+   
+   
+   <lido:titleWrap>
+   
+    <lido:titleSet lido:type="Repository title"> 
+     <lido:appellationValue lido:pref="preferred" xml:lang="eng">The Gun Shop</lido:appellationValue>
+ 
+    </lido:titleSet>
+    
+   </lido:titleWrap>
+   
+  
+   
+   <lido:inscriptionsWrap> 
+                <lido:inscriptions lido:type="Inscription">
+                    <lido:inscriptionTranscription>Inscribed in graphite lower right: "31 | 31 The Gun Shop W441"; in artist's hand in graphite lower center: "Pennell"; in graphite lower right: "L30 + VAT A16022 897/16"</lido:inscriptionTranscription>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="Marks">
+                    <lido:inscriptionTranscription>Ingres watermark</lido:inscriptionTranscription>
+                </lido:inscriptions>
+    <lido:inscriptions lido:type="Lettering">
+                    <lido:inscriptionTranscription>Lettered lower left: "Pennell"</lido:inscriptionTranscription>
+                </lido:inscriptions>
+                <lido:inscriptions lido:type="Signature">
+                    <lido:inscriptionTranscription>Signed in graphite lower center: "Pennell"</lido:inscriptionTranscription>
+                </lido:inscriptions>
+            </lido:inscriptionsWrap>
+   
+            
+            <lido:repositoryWrap>
+                <lido:repositorySet lido:type="current">
+                    
+                    <lido:repositoryName>
+        <lido:legalBodyID lido:source="ULAN" lido:type="local">500303557</lido:legalBodyID>
+ 
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+       <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+ 
+                    </lido:repositoryName>
+                    <lido:workID lido:type="inventory number">B2011.28.3</lido:workID>
+     
+                    
+                 <lido:repositoryLocation>
+     <lido:partOfPlace>
+                        <lido:namePlaceSet>
+                            <lido:appellationValue lido:label="On view or not">Not on view</lido:appellationValue>
+                        </lido:namePlaceSet>
+      <lido:gml>
+                        <gml:Point>
+                            <gml:coordinates/>
+                        </gml:Point>
+                        </lido:gml>
+                    </lido:partOfPlace>
+     
+     
+     
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3080060, -72.9306282</gml:coordinates>
+ 
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+      <lido:partOfPlace> 
+       <lido:placeID lido:source="TGN" lido:type="Geo location">7</lido:placeID>
+       <lido:namePlaceSet>
+        <lido:appellationValue>New Haven</lido:appellationValue>
+           
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3000, -72.9160</gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+   
+                    </lido:repositoryLocation>
+    
+                </lido:repositorySet>
+       </lido:repositoryWrap>
+   
+            <lido:displayStateEditionWrap>
+    
+    
+       
+    <lido:sourceStateEdition>Wuerth 441</lido:sourceStateEdition>
+    
+            </lido:displayStateEditionWrap>
+   
+            <lido:objectMeasurementsWrap>
+    
+                
+     
+     
+     <lido:objectMeasurementsSet>
+      <lido:displayObjectMeasurements>Sheet: 24 7/8 x 18 3/4 inches (63.2 x 47.6 cm)</lido:displayObjectMeasurements>
+     <lido:objectMeasurements>  
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>height</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>63.2</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>width</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>47.6</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+      
+      <lido:extentMeasurements>Sheet</lido:extentMeasurements>
+  
+      <lido:qualifierMeasurements></lido:qualifierMeasurements>
+    
+     </lido:objectMeasurements>
+     </lido:objectMeasurementsSet>
+     
+       
+     
+       
+            </lido:objectMeasurementsWrap>
+   
+  </lido:objectIdentificationWrap>
+  
+  
+  <lido:eventWrap>
+   <lido:eventSet>
+    <lido:event>
+    <lido:eventID lido:type="TMS">64051</lido:eventID>
+     <lido:eventType>
+     <lido:conceptID lido:source="AAT" lido:type="local">300054713</lido:conceptID>
+      <lido:term>production</lido:term>
+                    </lido:eventType>
+    
+     
+            
+     <lido:eventActor>
+     
+      
+       <lido:displayActorInRole>Print made by Joseph Pennell, 1860–1926, American</lido:displayActorInRole>
+      
+             
+     
+      <lido:actorInRole>   
+                            <lido:actor lido:type="person"> 
+                   <lido:actorID lido:source="YCBA" lido:type="local">3442</lido:actorID>
+ 
+        
+           
+                        
+       <lido:nameActorSet>
+          
+                    
+                                    <lido:appellationValue lido:pref="preferred">Joseph Pennell</lido:appellationValue>
+         
+        
+       </lido:nameActorSet>
+        
+        
+        
+                                <lido:nationalityActor>
+                                    <lido:term>American</lido:term>
+                                </lido:nationalityActor>
+        
+        
+                                <lido:vitalDatesActor>
+         
+                                    <lido:earliestDate lido:type="estimatedDate">1857</lido:earliestDate>
+                                    
+         
+         <lido:latestDate lido:type="estimatedDate">1926</lido:latestDate>
+         
+                                </lido:vitalDatesActor>
+        
+           
+        <lido:genderActor>male</lido:genderActor>
+        
+        
+                            </lido:actor>
+      
+      
+       <lido:roleActor>
+        <lido:conceptID lido:source="YCBA" lido:type="Object related role">48</lido:conceptID>
+        <lido:term>Printmaker</lido:term>
+       </lido:roleActor>
+       
+       
+      
+      
+      <lido:attributionQualifierActor>Print made by</lido:attributionQualifierActor>
+      </lido:actorInRole>
+     </lido:eventActor>
+                     
+     
+       
+       
+            
+        
+        
+     
+          <lido:culture>
+     
+      <lido:conceptID lido:source="AAT" lido:type="local">300111159</lido:conceptID>
+      <lido:term>British</lido:term>
+                    
+     </lido:culture>
+      
+     
+   
+     
+                    <lido:eventDate>
+                        <lido:displayDate>1917</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1917</lido:earliestDate>
+                            <lido:latestDate>1917</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    
+                    <lido:periodName>
+      <lido:conceptID lido:type="local" lido:source="YCBA">26</lido:conceptID>
+                        <lido:term>20th century</lido:term>
+ 
+                    </lido:periodName>
+     
+           
+      
+       
+      
+      
+                      
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Lithograph on medium, cream, slightly textured laid paper</lido:displayMaterialsTech>
+      
+     <lido:materialsTech>
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="technique" lido:source="AAT">254782</lido:conceptID>
+                                <lido:term>lithographic engraving (printing process)</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="support" lido:source="AAT">14184</lido:conceptID>
+                                <lido:term>laid paper</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+     
+    </lido:event>
+            </lido:eventSet>
+   
+   
+   
+   
+            
+                  
+                
+                   
+     
+                       
+                    
+               
+           
+   
+   
+   
+  
+ 
+   
+    
+                            <lido:eventSet>
+       
+                                <lido:event>
+                                    <lido:eventID lido:type="TMS">64051</lido:eventID>
+ 
+                                    <lido:eventType>
+                                        <lido:conceptID lido:source="AAT" lido:type="local">300157782</lido:conceptID>
+                                        <lido:term>acquisition</lido:term>
+   
+                                    </lido:eventType>
+                                    <lido:eventActor>
+                                        <lido:displayActorInRole>Yale Center for British Art</lido:displayActorInRole>
+                                        <lido:actorInRole>
+                                            <lido:actor lido:type="institution">
+                                                <lido:actorID lido:source="AAT" lido:type="local">1281</lido:actorID>
+                                                
+           <lido:nameActorSet>
+           
+            
+                                                  <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+        
+            
+            
+           </lido:nameActorSet>
+          <lido:nationalityActor/>
+                                                <lido:vitalDatesActor>
+                                                    <lido:earliestDate lido:label="estimatedDate" lido:type="">1977</lido:earliestDate>
+                                                    <lido:latestDate lido:label="estimatedDate" lido:type="">9999</lido:latestDate>
+                                                </lido:vitalDatesActor>
+                                                <lido:genderActor/>
+                                            </lido:actor>
+                                            <lido:roleActor>
+                                                <lido:conceptID lido:source="AAT" lido:type="local" lido:label="Acquisition related role">300203630</lido:conceptID>
+                                                <lido:term>Owner</lido:term>
+                                            </lido:roleActor>
+                                            <lido:attributionQualifierActor/>
+                                        </lido:actorInRole>
+                                    </lido:eventActor>
+                                    <lido:culture/>
+                                    <lido:eventDate>
+                                        <lido:displayDate>2011-12-22</lido:displayDate>
+                                        <lido:date>
+                                            <lido:earliestDate>2011-12-22</lido:earliestDate>
+                                            <lido:latestDate>2011-12-22</lido:latestDate>
+                                        </lido:date>
+                                    </lido:eventDate>
+ 
+                                    <lido:periodName/>
+                                   <lido:eventPlace/>
+                                    <lido:eventMethod>
+                                        <lido:conceptID lido:type="local" lido:source="AAT">300138913</lido:conceptID>
+                                        <lido:term>gift</lido:term>
+                                    </lido:eventMethod>
+                                </lido:event>
+       
+                            </lido:eventSet>
+      
+            
+   
+   
+    
+   
+   </lido:eventWrap>
+   
+  
+        <lido:objectRelationWrap>
+  
+  
+  
+            <lido:subjectWrap>
+   <lido:subjectSet> 
+   <lido:subject lido:type="description">                 
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">55718</lido:conceptID>
+      <lido:term>industry</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">36931</lido:conceptID>
+      <lido:term>guns</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25928</lido:conceptID>
+      <lido:term>men</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="local" lido:type="subjectConcept">-1</lido:conceptID>
+      <lido:term>genre subject</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">36936</lido:conceptID>
+      <lido:term>cannons (artillery)</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">36743</lido:conceptID>
+      <lido:term>Weapons and Ammunition</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">6232</lido:conceptID>
+      <lido:term>factory</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">5283</lido:conceptID>
+      <lido:term>shop</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25888</lido:conceptID>
+      <lido:term>laborers</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+          
+     <lido:subjectEvent>
+      <lido:event>
+      <lido:eventID lido:source="local" lido:type="subjectEvent">-1</lido:eventID>
+ 
+      <lido:eventType>
+      <lido:conceptID lido:source="local" lido:type="subjectEvent">-1</lido:conceptID>
+ 
+      <lido:term>World War, 1914-1918</lido:term>
+ 
+      </lido:eventType>
+      </lido:event>
+     </lido:subjectEvent>
+        
+       
+          
+     <lido:subjectEvent>
+      <lido:event>
+      <lido:eventID lido:source="AAT" lido:type="subjectEvent">55314</lido:eventID>
+ 
+      <lido:eventType>
+      <lido:conceptID lido:source="AAT" lido:type="subjectEvent">55314</lido:conceptID>
+ 
+      <lido:term>wars</lido:term>
+ 
+      </lido:eventType>
+      </lido:event>
+     </lido:subjectEvent>
+        
+         
+   </lido:subject>
+   </lido:subjectSet>
+   </lido:subjectWrap>
+     
+ 
+    
+            <lido:relatedWorksWrap>
+       
+    
+   </lido:relatedWorksWrap>
+  </lido:objectRelationWrap>
+  
+ </lido:descriptiveMetadata>
+ 
+ 
+ 
+<lido:administrativeMetadata xml:lang="eng">
+    
+    <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object ownership">500303557</lido:conceptID>
+                
+            </lido:rightsType>
+            
+            <lido:rightsHolder>   
+              
+    <lido:legalBodyID lido:type="">500303557</lido:legalBodyID>
+   
+   
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+  
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+ 
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Yale Center for British Art, Gift of Janet and James Sale, Yale BA 1960</lido:creditLine>
+        </lido:rightsWorkSet>
+        
+        
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object copyright">300055611</lido:conceptID>
+                <lido:term>public domain</lido:term>
+   
+    <lido:term lido:label="url">http://hdl.handle.net/10079/w6m90dq</lido:term>
+            </lido:rightsType>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Administrator"></lido:legalBodyID>
+  
+                
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+         
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+  
+            </lido:rightsHolder>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Holder"></lido:legalBodyID>
+  
+    
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+     
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+   
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Public Domain</lido:creditLine>
+                
+           </lido:rightsWorkSet>
+             
+                
+    </lido:rightsWorkWrap>
+    
+    <lido:recordWrap>
+        
+        <lido:recordID lido:type="local">64051</lido:recordID>
+        
+        <lido:recordType>
+            <lido:conceptID lido:source="AAT" lido:type="local">300133025</lido:conceptID>
+            <lido:term>Item</lido:term>
+       
+        </lido:recordType>
+ 
+        
+        <lido:recordSource>
+            <lido:legalBodyID lido:type="local">Yale Center for British Art</lido:legalBodyID>
+            <lido:legalBodyName>
+                <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+        </lido:recordSource>
+        
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">http://collections.britishart.yale.edu/vufind/Record/3622455</lido:recordInfoLink>
+        </lido:recordInfoSet>
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoID lido:type="url" lido:source="YCBA">oai:tms.ycba.yale.edu:64051</lido:recordInfoID>
+        </lido:recordInfoSet>
+        
+    </lido:recordWrap>
+    
+    <lido:resourceWrap>
+        <lido:resourceSet>
+            
+            <lido:resourceRepresentation lido:type="thumb">
+                <lido:linkResource lido:formatResource="jpg">
+                    
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/64051/type/2/format/1
+                    
+                    
+                    
+                    
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="large">
+                <lido:linkResource lido:formatResource="jpg">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/64051/type/2/format/3
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="list">
+                <lido:linkResource lido:formatResource="json">
+                    http://deliver.odai.yale.edu/info/repository/YCBA/object/64051/type/2?output=jsonp&amp;callback=?
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="original">
+                <lido:linkResource lido:formatResource="tif">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/64051/type/2/format/6
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            
+            <lido:resourceType>
+                <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            
+            <lido:resourceSource lido:type="image source">
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+  
+            </lido:resourceSource>
+            
+            <lido:rightsResource>
+                <lido:rightsType>
+                    <lido:conceptID lido:source="" lido:type="url">http://hdl.handle.net/10079/gb5mkww</lido:conceptID>
+                  
+                    <lido:term>image use terms</lido:term>
+                </lido:rightsType>
+                
+                
+                
+                <lido:rightsHolder>
+                   
+                    <lido:legalBodyName>
+                        <lido:appellationValue></lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:rightsHolder>
+    <lido:creditLine lido:label="image restrictions"></lido:creditLine>
+            </lido:rightsResource>
+        </lido:resourceSet>
+    </lido:resourceWrap>
+</lido:administrativeMetadata>
+  
+</lido:lido>
+</metadata>
+</record>

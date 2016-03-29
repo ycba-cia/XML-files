@@ -1,0 +1,2392 @@
+<record><header><identifier>oai:tms.ycba.yale.edu:5045</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>ycba:ps</setSpec>
+</header>
+<metadata>
+    <lido:lido 
+ xmlns:lido="http://www.lido-schema.org" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns:gml="http://www.opengis.net/gml"
+ xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lidoRecID lido:source="Yale Center for British Art" lido:type="local">YCBA/lido-TMS-5045</lido:lidoRecID>
+ <lido:category> 
+  <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+        <lido:term xml:lang="eng">Man-Made Object</lido:term>
+    </lido:category>
+ 
+ <lido:descriptiveMetadata xml:lang="eng">
+ 
+ 
+  <lido:objectClassificationWrap>
+   
+   <lido:objectWorkTypeWrap> 
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Object name">300033618</lido:conceptID>
+     <lido:term>painting</lido:term>
+ 
+    </lido:objectWorkType>
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Genre">300015637</lido:conceptID>
+     <lido:term>portrait</lido:term>
+ 
+    </lido:objectWorkType>
+    
+   </lido:objectWorkTypeWrap>
+ 
+   
+   <lido:classificationWrap>
+   
+    <lido:classification>
+     <lido:conceptID lido:source="AAT" lido:type="Classification">300033618</lido:conceptID>
+     <lido:term>Painting</lido:term>
+    </lido:classification>
+   
+   </lido:classificationWrap>
+ 
+  </lido:objectClassificationWrap>
+  
+  
+  
+  <lido:objectIdentificationWrap>
+   
+   
+   <lido:titleWrap>
+   
+    <lido:titleSet lido:type="Repository title"> 
+     <lido:appellationValue lido:pref="preferred" xml:lang="eng">Richard Heber</lido:appellationValue>
+ 
+    </lido:titleSet>
+    
+   </lido:titleWrap>
+   
+  
+   
+   <lido:inscriptionsWrap> 
+                <lido:inscriptions lido:type="Inscription">
+                    <lido:inscriptionTranscription></lido:inscriptionTranscription>
+                </lido:inscriptions>
+                
+    
+                
+            </lido:inscriptionsWrap>
+   
+            
+            <lido:repositoryWrap>
+                <lido:repositorySet lido:type="current">
+                    
+                    <lido:repositoryName>
+        <lido:legalBodyID lido:source="ULAN" lido:type="local">500303557</lido:legalBodyID>
+ 
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+       <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+ 
+                    </lido:repositoryName>
+                    <lido:workID lido:type="inventory number">B1981.25.745</lido:workID>
+     
+                    
+                 <lido:repositoryLocation>
+     <lido:partOfPlace>
+                        <lido:namePlaceSet>
+                            <lido:appellationValue lido:label="On view or not">On view</lido:appellationValue>
+                        </lido:namePlaceSet>
+      <lido:gml>
+                        <gml:Point>
+                            <gml:coordinates/>
+                        </gml:Point>
+                        </lido:gml>
+                    </lido:partOfPlace>
+     
+     <lido:partOfPlace>
+      <lido:namePlaceSet>
+       <lido:appellationValue lido:label="UnitPosition"></lido:appellationValue>
+           
+      </lido:namePlaceSet>
+       <lido:gml>            
+       <gml:Point>
+        <gml:coordinates></gml:coordinates>
+       </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+     
+        
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitNumber"></lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitType">Bay16</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="SubSite">401</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+        <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+      
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3080060, -72.9306282</gml:coordinates>
+ 
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+      <lido:partOfPlace> 
+       <lido:placeID lido:source="TGN" lido:type="Geo location">7</lido:placeID>
+       <lido:namePlaceSet>
+        <lido:appellationValue>New Haven</lido:appellationValue>
+           
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3000, -72.9160</gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+   
+                    </lido:repositoryLocation>
+    
+                </lido:repositorySet>
+       </lido:repositoryWrap>
+   
+            <lido:displayStateEditionWrap>
+    
+    
+    
+            </lido:displayStateEditionWrap>
+   
+            <lido:objectMeasurementsWrap>
+    
+                
+     
+     
+     <lido:objectMeasurementsSet>
+      <lido:displayObjectMeasurements>Support (PTG): 65 1/4 x 51 3/16 inches (165.7 x 130 cm)</lido:displayObjectMeasurements>
+     <lido:objectMeasurements>  
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>height</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>165.7</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>width</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>130.0</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+      
+      <lido:extentMeasurements>Support (PTG)</lido:extentMeasurements>
+  
+      <lido:qualifierMeasurements></lido:qualifierMeasurements>
+    
+     </lido:objectMeasurements>
+     </lido:objectMeasurementsSet>
+     
+       
+     
+       
+            </lido:objectMeasurementsWrap>
+   
+  </lido:objectIdentificationWrap>
+  
+  
+  <lido:eventWrap>
+   <lido:eventSet>
+    <lido:event>
+    <lido:eventID lido:type="TMS">5045</lido:eventID>
+     <lido:eventType>
+     <lido:conceptID lido:source="AAT" lido:type="local">300054713</lido:conceptID>
+      <lido:term>production</lido:term>
+                    </lido:eventType>
+    
+     
+            
+     <lido:eventActor>
+     
+      
+       <lido:displayActorInRole>John Singleton Copley, 1738–1815, American, active in Britain (from 1776)</lido:displayActorInRole>
+      
+             
+     
+      <lido:actorInRole>   
+                            <lido:actor lido:type="person"> 
+                   <lido:actorID lido:source="YCBA" lido:type="local">43</lido:actorID>
+ 
+        
+           
+                        
+       <lido:nameActorSet>
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">John Singleton Cropley</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">J. S. Copley R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">Copley R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="preferred">John Singleton Copley</lido:appellationValue>
+         
+        
+       </lido:nameActorSet>
+        
+        
+        
+                                <lido:nationalityActor>
+                                    <lido:term>American, active in Britain (from 1776)</lido:term>
+                                </lido:nationalityActor>
+        
+        
+                                <lido:vitalDatesActor>
+         
+                                    <lido:earliestDate lido:type="estimatedDate">1738</lido:earliestDate>
+                                    
+         
+         <lido:latestDate lido:type="estimatedDate">1815</lido:latestDate>
+         
+                                </lido:vitalDatesActor>
+        
+           
+        <lido:genderActor>male</lido:genderActor>
+        
+        
+                            </lido:actor>
+      
+      
+       <lido:roleActor>
+        <lido:conceptID lido:source="AAT" lido:type="Object related role">300025103</lido:conceptID>
+        <lido:term>Artist</lido:term>
+       </lido:roleActor>
+       
+       
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">2</lido:conceptID>
+        <lido:term>painter</lido:term>
+        
+       </lido:roleActor>
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">2</lido:conceptID>
+        <lido:term>portrait painter</lido:term>
+        
+       </lido:roleActor>
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">2</lido:conceptID>
+        <lido:term>history painter</lido:term>
+        
+       </lido:roleActor>
+      
+      
+      <lido:attributionQualifierActor></lido:attributionQualifierActor>
+      </lido:actorInRole>
+     </lido:eventActor>
+                     
+     
+       
+       
+            
+        
+        
+   
+     
+                    <lido:eventDate>
+                        <lido:displayDate>1782</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1782</lido:earliestDate>
+                            <lido:latestDate>1782</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    
+                    <lido:periodName>
+      <lido:conceptID lido:type="local" lido:source="YCBA">22</lido:conceptID>
+                        <lido:term>18th century</lido:term>
+ 
+                    </lido:periodName>
+     
+           
+      
+     
+     
+     <lido:eventPlace lido:type="Death place"> 
+      <lido:displayPlace>London</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>London</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>51.5000, -0.1660</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Death place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+      
+     
+     <lido:eventPlace lido:type="Birth place"> 
+      <lido:displayPlace>Boston</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>Boston</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>42.3500, -71.5000</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Birth place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+        
+      
+      
+                      
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Oil on canvas</lido:displayMaterialsTech>
+      
+     <lido:materialsTech>
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="medium" lido:source="AAT">15050</lido:conceptID>
+                                <lido:term>oil paint</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="support" lido:source="AAT">14078</lido:conceptID>
+                                <lido:term>canvas</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+     
+    </lido:event>
+            </lido:eventSet>
+   
+   
+   
+   
+            
+                  
+                
+                   
+     
+                       
+                    
+               
+           
+   
+   
+   
+  
+   
+<lido:eventSet> 
+<lido:displayEvent>2016 Installation YCBA - 401</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">897</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>2016 Installation YCBA - 401</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate></lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>2016-03-29</lido:earliestDate>
+                    <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">7</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Art Gallery of New South Wales </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1293</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Art Gallery of New South Wales</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1998-05-01 - 1998-07-05</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1998-05-01</lido:earliestDate>
+                    <lido:latestDate>1998-07-05</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Art Gallery of New South Wales</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Art Gallery of New South Wales</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">7</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Queensland Art Gallery </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1294</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Queensland Art Gallery</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1998-07-15 - 1998-09-06</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1998-07-15</lido:earliestDate>
+                    <lido:latestDate>1998-09-06</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Queensland Art Gallery</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Queensland Art Gallery</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">7</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>This Other Eden : British Paintings from the Paul Mellon Collection at Yale</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Art Gallery of South Australia </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1295</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Art Gallery of South Australia</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1998-09-16 - 1998-11-15</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1998-09-16</lido:earliestDate>
+                    <lido:latestDate>1998-11-15</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Art Gallery of South Australia</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Art Gallery of South Australia</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>John Singleton Copley in England</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">509</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>John Singleton Copley in England</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Museum of Fine Arts, Houston </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">2299</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Museum of Fine Arts, Houston</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1996-02-04 - 1996-04-28</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1996-02-04</lido:earliestDate>
+                    <lido:latestDate>1996-04-28</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Museum of Fine Arts, Houston</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Museum of Fine Arts, Houston</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>John Singleton Copley in England</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">509</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>John Singleton Copley in England</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>National Gallery of Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1651</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">Earl A. Powell III</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">Naomi R. Remes</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">Stephenie Belt</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">Sally Freitag Registrar</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">Washington, D.C., National Gallery of Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">National Gallery of Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1995-10-04 - 1996-01-07</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1995-10-04</lido:earliestDate>
+                    <lido:latestDate>1996-01-07</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>National Gallery of Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">National Gallery of Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+   
+   
+    
+                            <lido:eventSet>
+       
+                                <lido:event>
+                                    <lido:eventID lido:type="TMS">5045</lido:eventID>
+ 
+                                    <lido:eventType>
+                                        <lido:conceptID lido:source="AAT" lido:type="local">300157782</lido:conceptID>
+                                        <lido:term>acquisition</lido:term>
+   
+                                    </lido:eventType>
+                                    <lido:eventActor>
+                                        <lido:displayActorInRole>Yale Center for British Art</lido:displayActorInRole>
+                                        <lido:actorInRole>
+                                            <lido:actor lido:type="institution">
+                                                <lido:actorID lido:source="AAT" lido:type="local">1281</lido:actorID>
+                                                
+           <lido:nameActorSet>
+           
+            
+                                                  <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+        
+            
+            
+           </lido:nameActorSet>
+          <lido:nationalityActor/>
+                                                <lido:vitalDatesActor>
+                                                    <lido:earliestDate lido:label="estimatedDate" lido:type="">1977</lido:earliestDate>
+                                                    <lido:latestDate lido:label="estimatedDate" lido:type="">9999</lido:latestDate>
+                                                </lido:vitalDatesActor>
+                                                <lido:genderActor/>
+                                            </lido:actor>
+                                            <lido:roleActor>
+                                                <lido:conceptID lido:source="AAT" lido:type="local" lido:label="Acquisition related role">300203630</lido:conceptID>
+                                                <lido:term>Owner</lido:term>
+                                            </lido:roleActor>
+                                            <lido:attributionQualifierActor/>
+                                        </lido:actorInRole>
+                                    </lido:eventActor>
+                                    <lido:culture/>
+                                    <lido:eventDate>
+                                        <lido:displayDate>1981-01-01</lido:displayDate>
+                                        <lido:date>
+                                            <lido:earliestDate>1981-01-01</lido:earliestDate>
+                                            <lido:latestDate>1981-01-01</lido:latestDate>
+                                        </lido:date>
+                                    </lido:eventDate>
+ 
+                                    <lido:periodName/>
+                                   <lido:eventPlace/>
+                                    <lido:eventMethod>
+                                        <lido:conceptID lido:type="local" lido:source="AAT">300138913</lido:conceptID>
+                                        <lido:term>gift</lido:term>
+                                    </lido:eventMethod>
+                                </lido:event>
+       
+                            </lido:eventSet>
+      
+            
+   
+   
+    
+   
+   </lido:eventWrap>
+   
+  
+        <lido:objectRelationWrap>
+  
+  
+  
+            <lido:subjectWrap>
+   <lido:subjectSet> 
+   <lido:subject lido:type="description">                 
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">211068</lido:conceptID>
+      <lido:term>bat</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">222761</lido:conceptID>
+      <lido:term>cricket</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">247598</lido:conceptID>
+      <lido:term>boy</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25945</lido:conceptID>
+      <lido:term>child</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">15637</lido:conceptID>
+      <lido:term>portrait</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">46135</lido:conceptID>
+      <lido:term>breeches</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">217875</lido:conceptID>
+      <lido:term>ball</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">218855</lido:conceptID>
+      <lido:term>paddle (ball game equipment)</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">46088</lido:conceptID>
+      <lido:term>stockings</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">259410</lido:conceptID>
+      <lido:term>buckles</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">15636</lido:conceptID>
+      <lido:term>landscape</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">253712</lido:conceptID>
+      <lido:term>ruffles</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectActor>
+      <lido:displayActor>Heber, Richard (1774–1833), book collector</lido:displayActor>
+      <lido:actor lido:type="constituent">
+      <lido:actorID lido:source="local" lido:type="subjectActor">-1</lido:actorID>
+      <lido:nameActorSet>
+       <lido:appellationValue>Heber, Richard (1774–1833), book collector</lido:appellationValue>
+      </lido:nameActorSet>
+ 
+      </lido:actor>
+     </lido:subjectActor>
+  
+        
+         
+   </lido:subject>
+   </lido:subjectSet>
+   </lido:subjectWrap>
+     
+ 
+    
+            <lido:relatedWorksWrap>
+       
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Julia Marciari-Alexander, /This other Eden, paintings from the Yale Center for British Art, /Yale Center for British Art, New Haven, CT, 1998, pp. 106-7, no. 39, ND1314.3 Y36 1998 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND1314.3 Y36 1998 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">38239347</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">45</lido:objectID>
+      <lido:objectNote> Julia Marciari-Alexander, This other Eden, paintings from the Yale Center for British Art, Yale Center for British Art, New Haven, CT, 1998, pp. 106-7, no. 39, ND1314.3 Y36 1998 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Paul Mellon's legacy, a passion for British art. [large print labels], /Yale Center for British Art, New Haven, CT, 2007, v. 3, N5220 M552 +P381 2007,  Mellon Shelf  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N5220 M552 +P381 2007,  Mellon Shelf  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">701808157</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">190</lido:objectID>
+      <lido:objectNote> Paul Mellon's legacy, a passion for British art. [large print labels], Yale Center for British Art, New Haven, CT, 2007, v. 3, N5220 M552 +P381 2007,  Mellon Shelf  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Acquisitions : The First Decade 1977-1986, Yale Center for British Art, /Yale Center for British Art, New Haven, CT, 1986, p. 12, no. 10, N590.2 A7  OVERSIZE  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N590.2 A7  OVERSIZE  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">505788690</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">192</lido:objectID>
+      <lido:objectNote> Acquisitions : The First Decade 1977-1986, Yale Center for British Art, Yale Center for British Art, New Haven, CT, 1986, p. 12, no. 10, N590.2 A7  OVERSIZE  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Jules D. Prown, /John Singleton Copley ..., /1, National Gallery of Art, Washington, 1966, pp. 294-95 (v.2), fig. 424, NJ18 C75 P76 + (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 C75 P76 + (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">322</lido:objectID>
+      <lido:objectNote> Jules D. Prown, John Singleton Copley ..., 1, National Gallery of Art, Washington, 1966, pp. 294-95 (v.2), fig. 424, NJ18 C75 P76 + (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Denys Sutton, /Art Treasures on the Move, /Apollo, v. 114, no. 235, September 1981, p. 145, pl. II, N1 A54 +  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N1 A54 +  (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1098</lido:objectID>
+      <lido:objectNote> Denys Sutton, Art Treasures on the Move, Apollo, v. 114, no. 235, September 1981, p. 145, pl. II, N1 A54 +  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/American Artists and American Art - III, /Magazine of Art, January, 1879, p.95, J10 M268 +  (LSF)  , Available online in British Periodicals II database  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">J10 M268 +  (LSF)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1099</lido:objectID>
+      <lido:objectNote> American Artists and American Art - III, Magazine of Art, January, 1879, p.95, J10 M268 +  (LSF)  , Available online in British Periodicals II database   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>J. Davies, /Art Treasures Collection of North Wales and the Border Counties at Wrexham, 1876, /Academy, no. 222, August, 1876, p. 144, Film S2503  (SML)  , Available online in British Periodicals II database  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Film S2503  (SML)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1100</lido:objectID>
+      <lido:objectNote> J. Davies, Art Treasures Collection of North Wales and the Border Counties at Wrexham, 1876, Academy, no. 222, August, 1876, p. 144, Film S2503  (SML)  , Available online in British Periodicals II database   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Art Treasures and Industrial Exhibition at Wrexham, /British Architect and Northern Engineer, vol. 6, no. 4, July, 1876, p, 62, Available Online   (British Periodicals II)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Available Online   (British Periodicals II)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1101</lido:objectID>
+      <lido:objectNote> Art Treasures and Industrial Exhibition at Wrexham, British Architect and Northern Engineer, vol. 6, no. 4, July, 1876, p, 62, Available Online   (British Periodicals II)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/[ Advertisement : Front Matter  ] Agnew, /Burlington Magazine, v. 128, no. 1003, October, 1986, p. xix, N1 B87 +  (YCBA)  , Available online on JStor.  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N1 B87 +  (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1102</lido:objectID>
+      <lido:objectNote> [ Advertisement : Front Matter  ] Agnew, Burlington Magazine, v. 128, no. 1003, October, 1986, p. xix, N1 B87 +  (YCBA)  , Available online on JStor.   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Angus Trumble, /The finger, a handbook, /Farrar, Straus and Giroux, New York, 2010, p. 178, GT498.F46 T78 2010 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">GT498.F46 T78 2010 (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1479</lido:objectID>
+      <lido:objectNote> Angus Trumble, The finger, a handbook, Farrar, Straus and Giroux, New York, 2010, p. 178, GT498.F46 T78 2010 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Allen Guttmann, /Sports and American art from Benjamin West to Andy Warhol, /Amherst, MA, 2011, pp. 21-22, pl. 2, N8250 .G88X 2011 (LC) (HAAS)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N8250 .G88X 2011 (LC) (HAAS)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">696916058</lido:objectID>
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1864</lido:objectID>
+      <lido:objectNote> Allen Guttmann, Sports and American art from Benjamin West to Andy Warhol, Amherst, MA, 2011, pp. 21-22, pl. 2, N8250 .G88X 2011 (LC) (HAAS)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Duncan Robinson, /Acquisitions : The First Decade 1977 - 1986, , /Burlington Magazine, vol. 128, October 1986, p. 12, no. 10, N1 B87 128:3 OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N1 B87 128:3 OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2335</lido:objectID>
+      <lido:objectNote> Duncan Robinson, Acquisitions : The First Decade 1977 - 1986, , Burlington Magazine, vol. 128, October 1986, p. 12, no. 10, N1 B87 128:3 OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+    
+   </lido:relatedWorksWrap>
+  </lido:objectRelationWrap>
+  
+ </lido:descriptiveMetadata>
+ 
+ 
+ 
+<lido:administrativeMetadata xml:lang="eng">
+    
+    <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object ownership">500303557</lido:conceptID>
+                
+            </lido:rightsType>
+            
+            <lido:rightsHolder>   
+              
+    <lido:legalBodyID lido:type="">500303557</lido:legalBodyID>
+   
+   
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+  
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+ 
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Yale Center for British Art, Paul Mellon Collection</lido:creditLine>
+        </lido:rightsWorkSet>
+        
+        
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object copyright">300055611</lido:conceptID>
+                <lido:term>public domain</lido:term>
+   
+    <lido:term lido:label="url">http://hdl.handle.net/10079/w6m90dq</lido:term>
+            </lido:rightsType>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Administrator"></lido:legalBodyID>
+  
+                
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+         
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+  
+            </lido:rightsHolder>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Holder"></lido:legalBodyID>
+  
+    
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+     
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+   
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Public Domain</lido:creditLine>
+                
+           </lido:rightsWorkSet>
+             
+                
+    </lido:rightsWorkWrap>
+    
+    <lido:recordWrap>
+        
+        <lido:recordID lido:type="local">5045</lido:recordID>
+        
+        <lido:recordType>
+            <lido:conceptID lido:source="AAT" lido:type="local">300133025</lido:conceptID>
+            <lido:term>Item</lido:term>
+       
+        </lido:recordType>
+ 
+        
+        <lido:recordSource>
+            <lido:legalBodyID lido:type="local">Yale Center for British Art</lido:legalBodyID>
+            <lido:legalBodyName>
+                <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+        </lido:recordSource>
+        
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">http://collections.britishart.yale.edu/vufind/Record/1669282</lido:recordInfoLink>
+        </lido:recordInfoSet>
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoID lido:type="url" lido:source="YCBA">oai:tms.ycba.yale.edu:5045</lido:recordInfoID>
+        </lido:recordInfoSet>
+        
+    </lido:recordWrap>
+    
+    <lido:resourceWrap>
+        <lido:resourceSet>
+            
+            <lido:resourceRepresentation lido:type="thumb">
+                <lido:linkResource lido:formatResource="jpg">
+                    
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/5045/type/2/format/1
+                    
+                    
+                    
+                    
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="large">
+                <lido:linkResource lido:formatResource="jpg">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/5045/type/2/format/3
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="list">
+                <lido:linkResource lido:formatResource="json">
+                    http://deliver.odai.yale.edu/info/repository/YCBA/object/5045/type/2?output=jsonp&amp;callback=?
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="original">
+                <lido:linkResource lido:formatResource="tif">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/5045/type/2/format/6
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            
+            <lido:resourceType>
+                <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            
+            <lido:resourceSource lido:type="image source">
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+  
+            </lido:resourceSource>
+            
+            <lido:rightsResource>
+                <lido:rightsType>
+                    <lido:conceptID lido:source="" lido:type="url">http://hdl.handle.net/10079/gb5mkww</lido:conceptID>
+                  
+                    <lido:term>image use terms</lido:term>
+                </lido:rightsType>
+                
+                
+                
+                <lido:rightsHolder>
+                   
+                    <lido:legalBodyName>
+                        <lido:appellationValue></lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:rightsHolder>
+    <lido:creditLine lido:label="image restrictions"></lido:creditLine>
+            </lido:rightsResource>
+        </lido:resourceSet>
+    </lido:resourceWrap>
+</lido:administrativeMetadata>
+  
+</lido:lido>
+</metadata>
+</record>

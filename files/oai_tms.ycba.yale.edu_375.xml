@@ -1,0 +1,2267 @@
+<record><header><identifier>oai:tms.ycba.yale.edu:375</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>ycba:ps</setSpec>
+</header>
+<metadata>
+    <lido:lido 
+ xmlns:lido="http://www.lido-schema.org" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns:gml="http://www.opengis.net/gml"
+ xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lidoRecID lido:source="Yale Center for British Art" lido:type="local">YCBA/lido-TMS-375</lido:lidoRecID>
+ <lido:category> 
+  <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+        <lido:term xml:lang="eng">Man-Made Object</lido:term>
+    </lido:category>
+ 
+ <lido:descriptiveMetadata xml:lang="eng">
+ 
+ 
+  <lido:objectClassificationWrap>
+   
+   <lido:objectWorkTypeWrap> 
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Object name">300033618</lido:conceptID>
+     <lido:term>painting</lido:term>
+ 
+    </lido:objectWorkType>
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="YCBA" lido:type="Genre">9</lido:conceptID>
+     <lido:term>genre subject</lido:term>
+ 
+    </lido:objectWorkType>
+    
+   </lido:objectWorkTypeWrap>
+ 
+   
+   <lido:classificationWrap>
+   
+    <lido:classification>
+     <lido:conceptID lido:source="AAT" lido:type="Classification">300033618</lido:conceptID>
+     <lido:term>Painting</lido:term>
+    </lido:classification>
+   
+   </lido:classificationWrap>
+ 
+  </lido:objectClassificationWrap>
+  
+  
+  
+  <lido:objectIdentificationWrap>
+   
+   
+   <lido:titleWrap>
+   
+    <lido:titleSet lido:type="Repository title"> 
+     <lido:appellationValue lido:pref="preferred" xml:lang="eng">The Bathing Place at Ramsgate</lido:appellationValue>
+ 
+    </lido:titleSet>
+    
+   </lido:titleWrap>
+   
+  
+   
+   <lido:inscriptionsWrap> 
+                <lido:inscriptions lido:type="Inscription">
+                    <lido:inscriptionTranscription></lido:inscriptionTranscription>
+                </lido:inscriptions>
+                
+    
+                
+            </lido:inscriptionsWrap>
+   
+            
+            <lido:repositoryWrap>
+                <lido:repositorySet lido:type="current">
+                    
+                    <lido:repositoryName>
+        <lido:legalBodyID lido:source="ULAN" lido:type="local">500303557</lido:legalBodyID>
+ 
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+       <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+ 
+                    </lido:repositoryName>
+                    <lido:workID lido:type="inventory number">B1976.7.159</lido:workID>
+     
+                    
+                 <lido:repositoryLocation>
+     <lido:partOfPlace>
+                        <lido:namePlaceSet>
+                            <lido:appellationValue lido:label="On view or not">On view</lido:appellationValue>
+                        </lido:namePlaceSet>
+      <lido:gml>
+                        <gml:Point>
+                            <gml:coordinates/>
+                        </gml:Point>
+                        </lido:gml>
+                    </lido:partOfPlace>
+     
+     <lido:partOfPlace>
+      <lido:namePlaceSet>
+       <lido:appellationValue lido:label="UnitPosition"></lido:appellationValue>
+           
+      </lido:namePlaceSet>
+       <lido:gml>            
+       <gml:Point>
+        <gml:coordinates></gml:coordinates>
+       </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+     
+        
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitNumber"></lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitType">Bay F</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="SubSite">408</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+        <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+      
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3080060, -72.9306282</gml:coordinates>
+ 
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+      <lido:partOfPlace> 
+       <lido:placeID lido:source="TGN" lido:type="Geo location">7</lido:placeID>
+       <lido:namePlaceSet>
+        <lido:appellationValue>New Haven</lido:appellationValue>
+           
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3000, -72.9160</gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+   
+                    </lido:repositoryLocation>
+    
+                </lido:repositorySet>
+       </lido:repositoryWrap>
+   
+            <lido:displayStateEditionWrap>
+    
+    
+    
+            </lido:displayStateEditionWrap>
+   
+            <lido:objectMeasurementsWrap>
+    
+                
+     
+     
+     <lido:objectMeasurementsSet>
+      <lido:displayObjectMeasurements>Support (PTG): 14 x 17 1/2 inches (35.6 x 44.5 cm)</lido:displayObjectMeasurements>
+     <lido:objectMeasurements>  
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>height</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>35.6</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>width</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>44.5</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+      
+      <lido:extentMeasurements>Support (PTG)</lido:extentMeasurements>
+  
+      <lido:qualifierMeasurements></lido:qualifierMeasurements>
+    
+     </lido:objectMeasurements>
+     </lido:objectMeasurementsSet>
+     
+       
+     
+       
+            </lido:objectMeasurementsWrap>
+   
+  </lido:objectIdentificationWrap>
+  
+  
+  <lido:eventWrap>
+   <lido:eventSet>
+    <lido:event>
+    <lido:eventID lido:type="TMS">375</lido:eventID>
+     <lido:eventType>
+     <lido:conceptID lido:source="AAT" lido:type="local">300054713</lido:conceptID>
+      <lido:term>production</lido:term>
+                    </lido:eventType>
+    
+     
+            
+     <lido:eventActor>
+     
+      
+       <lido:displayActorInRole>Benjamin West, 1738–1820, American, active in Britain (from 1763)</lido:displayActorInRole>
+      
+             
+     
+      <lido:actorInRole>   
+                            <lido:actor lido:type="person"> 
+                   <lido:actorID lido:source="YCBA" lido:type="local">39</lido:actorID>
+ 
+        
+           
+                        
+       <lido:nameActorSet>
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">Benjamin West R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">Benjamin West P. R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="preferred">Benjamin West</lido:appellationValue>
+         
+        
+       </lido:nameActorSet>
+        
+        
+        
+                                <lido:nationalityActor>
+                                    <lido:term>American, active in Britain (from 1763)</lido:term>
+                                </lido:nationalityActor>
+        
+        
+                                <lido:vitalDatesActor>
+         
+                                    <lido:earliestDate lido:type="estimatedDate">1738</lido:earliestDate>
+                                    
+         
+         <lido:latestDate lido:type="estimatedDate">1820</lido:latestDate>
+         
+                                </lido:vitalDatesActor>
+        
+           
+        <lido:genderActor>male</lido:genderActor>
+        
+        
+                            </lido:actor>
+      
+      
+       <lido:roleActor>
+        <lido:conceptID lido:source="AAT" lido:type="Object related role">300025103</lido:conceptID>
+        <lido:term>Artist</lido:term>
+       </lido:roleActor>
+       
+       
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">1</lido:conceptID>
+        <lido:term>draftsman (artist)</lido:term>
+        
+       </lido:roleActor>
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">2</lido:conceptID>
+        <lido:term>history painter</lido:term>
+        
+       </lido:roleActor>
+      
+      
+      <lido:attributionQualifierActor></lido:attributionQualifierActor>
+      </lido:actorInRole>
+     </lido:eventActor>
+                     
+     
+       
+       
+            
+        
+        
+     
+          <lido:culture>
+     
+      <lido:conceptID lido:source="AAT" lido:type="local">300111159</lido:conceptID>
+      <lido:term>British</lido:term>
+                    
+     </lido:culture>
+      
+     
+   
+     
+                    <lido:eventDate>
+                        <lido:displayDate>ca. 1788</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1783</lido:earliestDate>
+                            <lido:latestDate>1793</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    
+                    <lido:periodName>
+      <lido:conceptID lido:type="local" lido:source="YCBA">22</lido:conceptID>
+                        <lido:term>18th century</lido:term>
+ 
+                    </lido:periodName>
+     
+           
+      
+     
+     
+     <lido:eventPlace lido:type="Death place"> 
+      <lido:displayPlace>London</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>London</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>51.5000, -0.1660</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Death place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+      
+     
+     <lido:eventPlace lido:type="Place of Activity"> 
+      <lido:displayPlace>Italy</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>Italy</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>42.8330, 12.8330</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Place of Activity">1</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+      
+     
+     <lido:eventPlace lido:type="Birth place"> 
+      <lido:displayPlace>Swarthmore</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>Swarthmore</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>39.9000, -75.3500</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Birth place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+        
+      
+      
+                      
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Oil on canvas</lido:displayMaterialsTech>
+      
+     <lido:materialsTech>
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="medium" lido:source="AAT">15050</lido:conceptID>
+                                <lido:term>oil paint</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="support" lido:source="AAT">14078</lido:conceptID>
+                                <lido:term>canvas</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+     
+    </lido:event>
+            </lido:eventSet>
+   
+   
+   
+   
+            
+                  
+                
+                   
+     
+                       
+                    
+               
+           
+   
+   
+   
+  
+   
+<lido:eventSet> 
+<lido:displayEvent>2016 - Long Gallery 408</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">903</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>2016 - Long Gallery 408</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate></lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>2016-03-29</lido:earliestDate>
+                    <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>Pleasures and Pastimes</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">644</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>Pleasures and Pastimes</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">63</lido:conceptID>
+       <lido:term>Organizer</lido:term>
+      </lido:roleActor>
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1990-02-21 - 1990-04-29</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1990-02-21</lido:earliestDate>
+                    <lido:latestDate>1990-04-29</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>Presences of Nature - British Landscape 1780-1830</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">592</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>Presences of Nature - British Landscape 1780-1830</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="AAT" lido:type="local">300025633</lido:conceptID>
+       <lido:term>Curator</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1982-10 - 1983-02</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1982-10</lido:earliestDate>
+                    <lido:latestDate>1983-02</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>The Pursuit of Happiness - A View of Life in Georgian England</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">565</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>The Pursuit of Happiness - A View of Life in Georgian England</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="AAT" lido:type="local">300025633</lido:conceptID>
+       <lido:term>Curator</lido:term>
+      </lido:roleActor>
+      
+         
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1977-04-19 - 1977-09-18</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1977-04-19</lido:earliestDate>
+                    <lido:latestDate>1977-09-18</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+     
+<lido:eventSet> 
+<lido:displayEvent>Painting in England 1700-1850 - From The Collection of Mr. and Mrs. Paul Mellon</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">610</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>Painting in England 1700-1850 - From The Collection of Mr. and Mrs. Paul Mellon</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale University Art Gallery </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1258</lido:actorID>
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale University Art Gallery</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">0</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">0</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+         
+      
+      <lido:roleActor>
+       <lido:conceptID lido:label="exhibition related constituent role" lido:source="YCBA" lido:type="local">64</lido:conceptID>
+       <lido:term>Borrower</lido:term>
+      </lido:roleActor>
+      
+         
+      
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate>1965-04-15 - 1965-06-20</lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>1965-04-15</lido:earliestDate>
+                    <lido:latestDate>1965-06-20</lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale University Art Gallery</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale University Art Gallery</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+   
+   
+    
+                            <lido:eventSet>
+       
+                                <lido:event>
+                                    <lido:eventID lido:type="TMS">375</lido:eventID>
+ 
+                                    <lido:eventType>
+                                        <lido:conceptID lido:source="AAT" lido:type="local">300157782</lido:conceptID>
+                                        <lido:term>acquisition</lido:term>
+   
+                                    </lido:eventType>
+                                    <lido:eventActor>
+                                        <lido:displayActorInRole>Yale Center for British Art</lido:displayActorInRole>
+                                        <lido:actorInRole>
+                                            <lido:actor lido:type="institution">
+                                                <lido:actorID lido:source="YCBA" lido:type="local">1281</lido:actorID>
+                                                
+           <lido:nameActorSet>
+           
+            
+                                                  <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+        
+            
+            
+           </lido:nameActorSet>
+          <lido:nationalityActor/>
+                                                <lido:vitalDatesActor>
+                                                    <lido:earliestDate lido:label="estimatedDate" lido:type="">1977</lido:earliestDate>
+                                                    <lido:latestDate lido:label="estimatedDate" lido:type="">9999</lido:latestDate>
+                                                </lido:vitalDatesActor>
+                                                <lido:genderActor/>
+                                            </lido:actor>
+                                            <lido:roleActor>
+                                                <lido:conceptID lido:source="AAT" lido:type="local" lido:label="Acquisition related role">300203630</lido:conceptID>
+                                                <lido:term>Owner</lido:term>
+                                            </lido:roleActor>
+                                            <lido:attributionQualifierActor/>
+                                        </lido:actorInRole>
+                                    </lido:eventActor>
+                                    <lido:culture/>
+                                    <lido:eventDate>
+                                        <lido:displayDate>1976</lido:displayDate>
+                                        <lido:date>
+                                            <lido:earliestDate>1976</lido:earliestDate>
+                                            <lido:latestDate>1976</lido:latestDate>
+                                        </lido:date>
+                                    </lido:eventDate>
+ 
+                                    <lido:periodName/>
+                                   <lido:eventPlace/>
+                                    <lido:eventMethod>
+                                        <lido:conceptID lido:type="local" lido:source="YCBA">0</lido:conceptID>
+                                        <lido:term>not selected</lido:term>
+                                    </lido:eventMethod>
+                                </lido:event>
+       
+                            </lido:eventSet>
+      
+            
+   
+   
+    
+   
+   </lido:eventWrap>
+   
+  
+        <lido:objectRelationWrap>
+  
+  
+  
+            <lido:subjectWrap>
+   <lido:subjectSet> 
+   <lido:subject lido:type="description">                 
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="local" lido:type="subjectConcept">-1</lido:conceptID>
+      <lido:term>horses (animals)</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25928</lido:conceptID>
+      <lido:term>men</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25945</lido:conceptID>
+      <lido:term>children</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">300002654</lido:conceptID>
+      <lido:term>babies</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25943</lido:conceptID>
+      <lido:term>women</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">185335</lido:conceptID>
+      <lido:term>carriages</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">8694</lido:conceptID>
+      <lido:term>sea</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">8749</lido:conceptID>
+      <lido:term>cliff</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="TGN" lido:type="subjectConcept">0</lido:conceptID>
+      <lido:term>port</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">212695</lido:conceptID>
+      <lido:term>carts</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">189568</lido:conceptID>
+      <lido:term>nude</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">53042</lido:conceptID>
+      <lido:term>washing</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">178802</lido:conceptID>
+      <lido:term>costume</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="local" lido:type="subjectConcept">-1</lido:conceptID>
+      <lido:term>genre subject</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">138173</lido:conceptID>
+      <lido:term>leisure</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">188634</lido:conceptID>
+      <lido:term>bathers</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">54546</lido:conceptID>
+      <lido:term>geology</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">239495</lido:conceptID>
+      <lido:term>swimming</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">195678</lido:conceptID>
+      <lido:term>flags</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="local" lido:type="subjectConcept">-1</lido:conceptID>
+      <lido:term>clouds</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25932</lido:conceptID>
+      <lido:term>mothers</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+           
+     
+     <lido:subjectPlace>
+      <lido:displayPlace>England</lido:displayPlace>
+      <lido:place lido:geographicalEntity="geographic location">
+      <lido:placeID lido:source="TGN" lido:type="subjectPlace">7002445</lido:placeID>
+      <lido:namePlaceSet>
+      <lido:appellationValue>England</lido:appellationValue>
+      </lido:namePlaceSet>
+ 
+      <lido:gml>
+      <gml:Point>
+       <gml:coordinates>53.0000, -2.0000</gml:coordinates>
+      </gml:Point>
+      </lido:gml>
+      </lido:place>
+     </lido:subjectPlace>
+        
+       
+           
+     
+     <lido:subjectPlace>
+      <lido:displayPlace>Thanet, Isle of</lido:displayPlace>
+      <lido:place lido:geographicalEntity="geographic location">
+      <lido:placeID lido:source="TGN" lido:type="subjectPlace">1009430</lido:placeID>
+      <lido:namePlaceSet>
+      <lido:appellationValue>Thanet, Isle of</lido:appellationValue>
+      </lido:namePlaceSet>
+ 
+      <lido:gml>
+      <gml:Point>
+       <gml:coordinates>0.0000, 0.0000</gml:coordinates>
+      </gml:Point>
+      </lido:gml>
+      </lido:place>
+     </lido:subjectPlace>
+        
+       
+           
+     
+     <lido:subjectPlace>
+      <lido:displayPlace>Ramsgate</lido:displayPlace>
+      <lido:place lido:geographicalEntity="geographic location">
+      <lido:placeID lido:source="TGN" lido:type="subjectPlace">7011562</lido:placeID>
+      <lido:namePlaceSet>
+      <lido:appellationValue>Ramsgate</lido:appellationValue>
+      </lido:namePlaceSet>
+ 
+      <lido:gml>
+      <gml:Point>
+       <gml:coordinates>51.3330, 1.4330</gml:coordinates>
+      </gml:Point>
+      </lido:gml>
+      </lido:place>
+     </lido:subjectPlace>
+        
+       
+           
+     
+     <lido:subjectPlace>
+      <lido:displayPlace>Kent</lido:displayPlace>
+      <lido:place lido:geographicalEntity="geographic location">
+      <lido:placeID lido:source="TGN" lido:type="subjectPlace">7008153</lido:placeID>
+      <lido:namePlaceSet>
+      <lido:appellationValue>Kent</lido:appellationValue>
+      </lido:namePlaceSet>
+ 
+      <lido:gml>
+      <gml:Point>
+       <gml:coordinates>51.2160, 0.6500</gml:coordinates>
+      </gml:Point>
+      </lido:gml>
+      </lido:place>
+     </lido:subjectPlace>
+        
+       
+           
+     
+     <lido:subjectPlace>
+      <lido:displayPlace>United Kingdom</lido:displayPlace>
+      <lido:place lido:geographicalEntity="geographic location">
+      <lido:placeID lido:source="TGN" lido:type="subjectPlace">7008591</lido:placeID>
+      <lido:namePlaceSet>
+      <lido:appellationValue>United Kingdom</lido:appellationValue>
+      </lido:namePlaceSet>
+ 
+      <lido:gml>
+      <gml:Point>
+       <gml:coordinates>54.0000, -4.5000</gml:coordinates>
+      </gml:Point>
+      </lido:gml>
+      </lido:place>
+     </lido:subjectPlace>
+        
+         
+   </lido:subject>
+   </lido:subjectSet>
+   </lido:subjectWrap>
+     
+ 
+    
+            <lido:relatedWorksWrap>
+       
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>J. H. Plumb, /The pursuit of happiness : a view of life in Georgian England : an exhibition selected from the Paul Mellon collection, a view of life in Georgian England : an exhibition selected from the Paul Mellon collection, /Yale Center for British Art, New Haven, 1977, pp. 32, 74, no. 12, N6766 Y34 1977 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">3447120</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N6766 Y34 1977 (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">191</lido:objectID>
+      <lido:objectNote> J. H. Plumb, The pursuit of happiness : a view of life in Georgian England : an exhibition selected from the Paul Mellon collection, a view of life in Georgian England : an exhibition selected from the Paul Mellon collection, Yale Center for British Art, New Haven, 1977, pp. 32, 74, no. 12, N6766 Y34 1977 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Louis Hawes, /Presences of nature, British landscape, 1780-1830, /Yale Center for British Art, New Haven, CT, 1982, pp. 52, 127, no. II.3, pl. 41, ND1354.4 H38 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND1354.4 H38 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">09078534</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">282</lido:objectID>
+      <lido:objectNote> Louis Hawes, Presences of nature, British landscape, 1780-1830, Yale Center for British Art, New Haven, CT, 1982, pp. 52, 127, no. II.3, pl. 41, ND1354.4 H38 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Yale University Art Gallery, /Painting in England, 1700-1850, from the collection of Mr. and Mrs. Paul Mellon, [exhibition at] Yale University Art Gallery, April 15-June 20, 1965., /vol. 1, W. Clowes and sons, , 1965, p. 58 (v.1), no. 217, pl. 66, ND466 Y35 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND466 Y35 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">702612521</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">317</lido:objectID>
+      <lido:objectNote> Yale University Art Gallery, Painting in England, 1700-1850, from the collection of Mr. and Mrs. Paul Mellon, [exhibition at] Yale University Art Gallery, April 15-June 20, 1965., vol. 1, W. Clowes and sons, , 1965, p. 58 (v.1), no. 217, pl. 66, ND466 Y35 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Painting in England 1700-1850 from the Collection of Mr. and Mrs. Paul Mellon, The Royal Academy of Arts Winter Exhibition 1964-65., , /Royal Academy of Arts, London, UK, 1964, p. 43 (v.1), no. 161, pl. 66, ND466 R68 1964/65  (YCBA)  , Also available on Microfiche: Fiche B214 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND466 R68 1964/65  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">02113648</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">464</lido:objectID>
+      <lido:objectNote> Painting in England 1700-1850 from the Collection of Mr. and Mrs. Paul Mellon, The Royal Academy of Arts Winter Exhibition 1964-65., , Royal Academy of Arts, London, UK, 1964, p. 43 (v.1), no. 161, pl. 66, ND466 R68 1964/65  (YCBA)  , Also available on Microfiche: Fiche B214 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Helmut von Erffa, /The paintings of Benjamin West, /Yale University Press, New Haven, 1986, p. 427, no. 467, NJ18 W52 A12 E73  + OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 W52 A12 E73  + OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">12665136</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">754</lido:objectID>
+      <lido:objectNote> Helmut von Erffa, The paintings of Benjamin West, Yale University Press, New Haven, 1986, p. 427, no. 467, NJ18 W52 A12 E73  + OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Sotheby's sale catatogue : Catalogue of fine eighteenth and nineteenth century English paintings and drawings : 18 March 1964, /Sotheby's, London, March 18, 1964, p. 29 opposite p. 29, Lot  81, Auction catalogues (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Auction catalogues (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1940</lido:objectID>
+      <lido:objectNote> Sotheby's sale catatogue : Catalogue of fine eighteenth and nineteenth century English paintings and drawings : 18 March 1964, Sotheby's, London, March 18, 1964, p. 29 opposite p. 29, Lot  81, Auction catalogues (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Maurice Harold Grant, /A chronological history of the old English landscape painters (in oil), From the XVIth century to the XIXth century, /8 v., F. Lewis, Publishers, Limited, London, UK, 1957, p. 221 (v.3), ND1354 G73 1957 OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND1354 G73 1957 OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">00337772</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1983</lido:objectID>
+      <lido:objectNote> Maurice Harold Grant, A chronological history of the old English landscape painters (in oil), From the XVIth century to the XIXth century, 8 v., F. Lewis, Publishers, Limited, London, UK, 1957, p. 221 (v.3), ND1354 G73 1957 OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>John Galt, /The life, studies, and works of Benjamin West, /1820, p. 230, ND237 W45 G4 (YCBA)  , in Rare Books and Manuscripts  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND237 W45 G4 (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1984</lido:objectID>
+      <lido:objectNote> John Galt, The life, studies, and works of Benjamin West, 1820, p. 230, ND237 W45 G4 (YCBA)  , in Rare Books and Manuscripts   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Catherine M. Gordon, /British paintings Hogarth to Turner, /Frederick Warne, London, 1981, p. 70, ND466 G67  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">ND466 G67  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">07500731</lido:objectID>
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2775</lido:objectID>
+      <lido:objectNote> Catherine M. Gordon, British paintings Hogarth to Turner, Frederick Warne, London, 1981, p. 70, ND466 G67  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Robert C. Alberts, /Benjamin West : a biography, /Houghton Mifflin Company, Boston, 1978, pp. 221, 397, p. 15  in unnumered plate section  between pp. 270 and 271, NJ18 W52 A6  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 W52 A6  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">04003948</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">3577</lido:objectID>
+      <lido:objectNote> Robert C. Alberts, Benjamin West : a biography, Houghton Mifflin Company, Boston, 1978, pp. 221, 397, p. 15  in unnumered plate section  between pp. 270 and 271, NJ18 W52 A6  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+    
+   </lido:relatedWorksWrap>
+  </lido:objectRelationWrap>
+  
+ </lido:descriptiveMetadata>
+ 
+ 
+ 
+<lido:administrativeMetadata xml:lang="eng">
+    
+    <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object ownership">500303557</lido:conceptID>
+                
+            </lido:rightsType>
+            
+            <lido:rightsHolder>   
+              
+    <lido:legalBodyID lido:type="">500303557</lido:legalBodyID>
+   
+   
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+  
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+ 
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Yale Center for British Art, Paul Mellon Collection</lido:creditLine>
+        </lido:rightsWorkSet>
+        
+        
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object copyright">300055611</lido:conceptID>
+                <lido:term>public domain</lido:term>
+   
+    <lido:term lido:label="url">http://hdl.handle.net/10079/w6m90dq</lido:term>
+            </lido:rightsType>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Administrator"></lido:legalBodyID>
+  
+                
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+         
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+  
+            </lido:rightsHolder>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Holder"></lido:legalBodyID>
+  
+    
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+     
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+   
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Public Domain</lido:creditLine>
+                
+           </lido:rightsWorkSet>
+             
+                
+    </lido:rightsWorkWrap>
+    
+    <lido:recordWrap>
+        
+        <lido:recordID lido:type="local">375</lido:recordID>
+        
+        <lido:recordType>
+            <lido:conceptID lido:source="AAT" lido:type="local">300133025</lido:conceptID>
+            <lido:term>Item</lido:term>
+       
+        </lido:recordType>
+ 
+        
+        <lido:recordSource>
+            <lido:legalBodyID lido:type="local">Yale Center for British Art</lido:legalBodyID>
+            <lido:legalBodyName>
+                <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+        </lido:recordSource>
+        
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">http://collections.britishart.yale.edu/vufind/Record/1667993</lido:recordInfoLink>
+        </lido:recordInfoSet>
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoID lido:type="url" lido:source="YCBA">oai:tms.ycba.yale.edu:375</lido:recordInfoID>
+        </lido:recordInfoSet>
+        
+    </lido:recordWrap>
+    
+    <lido:resourceWrap>
+        <lido:resourceSet>
+            
+            <lido:resourceRepresentation lido:type="thumb">
+                <lido:linkResource lido:formatResource="jpg">
+                    
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/375/type/2/format/1
+                    
+                    
+                    
+                    
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="large">
+                <lido:linkResource lido:formatResource="jpg">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/375/type/2/format/3
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="list">
+                <lido:linkResource lido:formatResource="json">
+                    http://deliver.odai.yale.edu/info/repository/YCBA/object/375/type/2?output=jsonp&amp;callback=?
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="original">
+                <lido:linkResource lido:formatResource="tif">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/375/type/2/format/6
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            
+            <lido:resourceType>
+                <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            
+            <lido:resourceSource lido:type="image source">
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+  
+            </lido:resourceSource>
+            
+            <lido:rightsResource>
+                <lido:rightsType>
+                    <lido:conceptID lido:source="" lido:type="url">http://hdl.handle.net/10079/gb5mkww</lido:conceptID>
+                  
+                    <lido:term>image use terms</lido:term>
+                </lido:rightsType>
+                
+                
+                
+                <lido:rightsHolder>
+                   
+                    <lido:legalBodyName>
+                        <lido:appellationValue></lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:rightsHolder>
+    <lido:creditLine lido:label="image restrictions"></lido:creditLine>
+            </lido:rightsResource>
+        </lido:resourceSet>
+    </lido:resourceWrap>
+</lido:administrativeMetadata>
+  
+</lido:lido>
+</metadata>
+</record>

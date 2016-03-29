@@ -1,0 +1,4104 @@
+<record><header><identifier>oai:tms.ycba.yale.edu:153</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>ycba:ps</setSpec>
+</header>
+<metadata>
+    <lido:lido 
+ xmlns:lido="http://www.lido-schema.org" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xmlns:gml="http://www.opengis.net/gml"
+ xsi:schemaLocation="http://www.lido-schema.org http://www.lido-schema.org/schema/v1.0/lido-v1.0.xsd">
+    <lido:lidoRecID lido:source="Yale Center for British Art" lido:type="local">YCBA/lido-TMS-153</lido:lidoRecID>
+ <lido:category> 
+  <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/#E22</lido:conceptID>
+        <lido:term xml:lang="eng">Man-Made Object</lido:term>
+    </lido:category>
+ 
+ <lido:descriptiveMetadata xml:lang="eng">
+ 
+ 
+  <lido:objectClassificationWrap>
+   
+   <lido:objectWorkTypeWrap> 
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Object name">300033618</lido:conceptID>
+     <lido:term>painting</lido:term>
+ 
+    </lido:objectWorkType>
+    
+    <lido:objectWorkType>
+     <lido:conceptID lido:source="AAT" lido:type="Genre">300015637</lido:conceptID>
+     <lido:term>portrait</lido:term>
+ 
+    </lido:objectWorkType>
+    
+   </lido:objectWorkTypeWrap>
+ 
+   
+   <lido:classificationWrap>
+   
+    <lido:classification>
+     <lido:conceptID lido:source="AAT" lido:type="Classification">300033618</lido:conceptID>
+     <lido:term>Painting</lido:term>
+    </lido:classification>
+   
+   </lido:classificationWrap>
+ 
+  </lido:objectClassificationWrap>
+  
+  
+  
+  <lido:objectIdentificationWrap>
+   
+   
+   <lido:titleWrap>
+   
+    <lido:titleSet lido:type="Repository title"> 
+     <lido:appellationValue lido:pref="preferred" xml:lang="eng">John Eardley Wilmot</lido:appellationValue>
+ 
+    </lido:titleSet>
+    
+   </lido:titleWrap>
+   
+  
+   
+   <lido:inscriptionsWrap> 
+                <lido:inscriptions lido:type="Inscription">
+                    <lido:inscriptionTranscription></lido:inscriptionTranscription>
+                </lido:inscriptions>
+                
+    
+                <lido:inscriptions lido:type="Signature">
+                    <lido:inscriptionTranscription>Signed and dated, lower right: "B. West | 1812-"</lido:inscriptionTranscription>
+                </lido:inscriptions>
+            </lido:inscriptionsWrap>
+   
+            
+            <lido:repositoryWrap>
+                <lido:repositorySet lido:type="current">
+                    
+                    <lido:repositoryName>
+        <lido:legalBodyID lido:source="ULAN" lido:type="local">500303557</lido:legalBodyID>
+ 
+                        <lido:legalBodyName>
+                            <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                        </lido:legalBodyName>
+       <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+ 
+                    </lido:repositoryName>
+                    <lido:workID lido:type="inventory number">B1973.1.61</lido:workID>
+     
+                    
+                 <lido:repositoryLocation>
+     <lido:partOfPlace>
+                        <lido:namePlaceSet>
+                            <lido:appellationValue lido:label="On view or not">On view</lido:appellationValue>
+                        </lido:namePlaceSet>
+      <lido:gml>
+                        <gml:Point>
+                            <gml:coordinates/>
+                        </gml:Point>
+                        </lido:gml>
+                    </lido:partOfPlace>
+     
+     <lido:partOfPlace>
+      <lido:namePlaceSet>
+       <lido:appellationValue lido:label="UnitPosition"></lido:appellationValue>
+           
+      </lido:namePlaceSet>
+       <lido:gml>            
+       <gml:Point>
+        <gml:coordinates></gml:coordinates>
+       </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+     
+        
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitNumber"></lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="UnitType">Bay D</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="SubSite">408</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+        <gml:coordinates></gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+      
+     
+     
+      <lido:partOfPlace>
+       <lido:namePlaceSet>
+        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+  
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3080060, -72.9306282</gml:coordinates>
+ 
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+       
+      <lido:partOfPlace> 
+       <lido:placeID lido:source="TGN" lido:type="Geo location">7</lido:placeID>
+       <lido:namePlaceSet>
+        <lido:appellationValue>New Haven</lido:appellationValue>
+           
+       </lido:namePlaceSet>
+       <lido:gml>            
+        <gml:Point>
+         <gml:coordinates>41.3000, -72.9160</gml:coordinates>
+        </gml:Point>
+       </lido:gml>
+      </lido:partOfPlace>
+   
+                    </lido:repositoryLocation>
+    
+                </lido:repositorySet>
+       </lido:repositoryWrap>
+   
+            <lido:displayStateEditionWrap>
+    
+    
+    
+            </lido:displayStateEditionWrap>
+   
+            <lido:objectMeasurementsWrap>
+    
+                
+     
+     
+     <lido:objectMeasurementsSet>
+      <lido:displayObjectMeasurements>Support (PTG): 41 1/2 x 58 1/4 inches (105.4 x 148 cm)</lido:displayObjectMeasurements>
+     <lido:objectMeasurements>  
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>height</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>105.4</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+     
+     
+     <lido:measurementsSet>       
+       <lido:measurementType>width</lido:measurementType>
+       <lido:measurementUnit>cm</lido:measurementUnit>
+  
+       <lido:measurementValue>148.0</lido:measurementValue>
+      </lido:measurementsSet>
+         
+      
+      
+      <lido:extentMeasurements>Support (PTG)</lido:extentMeasurements>
+  
+      <lido:qualifierMeasurements></lido:qualifierMeasurements>
+    
+     </lido:objectMeasurements>
+     </lido:objectMeasurementsSet>
+     
+       
+     
+       
+            </lido:objectMeasurementsWrap>
+   
+  </lido:objectIdentificationWrap>
+  
+  
+  <lido:eventWrap>
+   <lido:eventSet>
+    <lido:event>
+    <lido:eventID lido:type="TMS">153</lido:eventID>
+     <lido:eventType>
+     <lido:conceptID lido:source="AAT" lido:type="local">300054713</lido:conceptID>
+      <lido:term>production</lido:term>
+                    </lido:eventType>
+    
+     
+            
+     <lido:eventActor>
+     
+      
+       <lido:displayActorInRole>Benjamin West, 1738–1820, American, active in Britain (from 1763)</lido:displayActorInRole>
+      
+             
+     
+      <lido:actorInRole>   
+                            <lido:actor lido:type="person"> 
+                   <lido:actorID lido:source="YCBA" lido:type="local">39</lido:actorID>
+ 
+        
+           
+                        
+       <lido:nameActorSet>
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">Benjamin West R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="alternate">Benjamin West P. R. A.</lido:appellationValue>
+         
+          
+                    
+                                    <lido:appellationValue lido:pref="preferred">Benjamin West</lido:appellationValue>
+         
+        
+       </lido:nameActorSet>
+        
+        
+        
+                                <lido:nationalityActor>
+                                    <lido:term>American, active in Britain (from 1763)</lido:term>
+                                </lido:nationalityActor>
+        
+        
+                                <lido:vitalDatesActor>
+         
+                                    <lido:earliestDate lido:type="estimatedDate">1738</lido:earliestDate>
+                                    
+         
+         <lido:latestDate lido:type="estimatedDate">1820</lido:latestDate>
+         
+                                </lido:vitalDatesActor>
+        
+           
+        <lido:genderActor>male</lido:genderActor>
+        
+        
+                            </lido:actor>
+      
+      
+       <lido:roleActor>
+        <lido:conceptID lido:source="AAT" lido:type="Object related role">300025103</lido:conceptID>
+        <lido:term>Artist</lido:term>
+       </lido:roleActor>
+       
+       
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">1</lido:conceptID>
+        <lido:term>draftsman (artist)</lido:term>
+        
+       </lido:roleActor>
+      
+        
+       <lido:roleActor>
+               
+        <lido:conceptID lido:source="AAT" lido:type="Life role">2</lido:conceptID>
+        <lido:term>history painter</lido:term>
+        
+       </lido:roleActor>
+      
+      
+      <lido:attributionQualifierActor></lido:attributionQualifierActor>
+      </lido:actorInRole>
+     </lido:eventActor>
+                     
+     
+       
+       
+            
+        
+        
+     
+          <lido:culture>
+     
+      <lido:conceptID lido:source="AAT" lido:type="local">300111159</lido:conceptID>
+      <lido:term>British</lido:term>
+                    
+     </lido:culture>
+      
+     
+   
+     
+                    <lido:eventDate>
+                        <lido:displayDate>1812</lido:displayDate>
+                        <lido:date>
+                            <lido:earliestDate>1812</lido:earliestDate>
+                            <lido:latestDate>1812</lido:latestDate>
+                        </lido:date>
+                    </lido:eventDate>
+                    
+                    <lido:periodName>
+      <lido:conceptID lido:type="local" lido:source="YCBA">24</lido:conceptID>
+                        <lido:term>19th century</lido:term>
+ 
+                    </lido:periodName>
+     
+           
+      
+     
+     
+     <lido:eventPlace lido:type="Birth place"> 
+      <lido:displayPlace>Swarthmore</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>Swarthmore</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>39.9000, -75.3500</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Birth place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+      
+     
+     <lido:eventPlace lido:type="Place of Activity"> 
+      <lido:displayPlace>Italy</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>Italy</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>42.8330, 12.8330</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Place of Activity">1</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+      
+     
+     <lido:eventPlace lido:type="Death place"> 
+      <lido:displayPlace>London</lido:displayPlace>
+       <lido:place>
+       <lido:namePlaceSet> 
+         <lido:appellationValue>London</lido:appellationValue>
+       </lido:namePlaceSet>
+       
+       <lido:gml> 
+                               <gml:Point> 
+                                    <gml:coordinates>51.5000, -0.1660</gml:coordinates>
+ 
+                                </gml:Point>
+ 
+                            </lido:gml>
+ 
+       <lido:placeClassification>
+                                <lido:conceptID lido:source="TGN" lido:type="Death place">7</lido:conceptID>
+                            </lido:placeClassification>
+       
+       </lido:place>
+      </lido:eventPlace>
+      
+        
+      
+      
+                      
+                    <lido:eventMaterialsTech>
+                        <lido:displayMaterialsTech>Oil on canvas</lido:displayMaterialsTech>
+      
+     <lido:materialsTech>
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="medium" lido:source="AAT">15050</lido:conceptID>
+                                <lido:term>oil paint</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      
+                            <lido:termMaterialsTech>
+                                <lido:conceptID lido:type="support" lido:source="AAT">14078</lido:conceptID>
+                                <lido:term>canvas</lido:term>
+                            </lido:termMaterialsTech>
+ 
+      
+       
+      </lido:materialsTech>
+                    </lido:eventMaterialsTech>
+     
+    </lido:event>
+            </lido:eventSet>
+   
+   
+   
+   
+            
+                  
+                
+                   
+     
+                       
+                    
+               
+           
+   
+   
+   
+  
+   
+<lido:eventSet> 
+<lido:displayEvent>2016 - Long Gallery 408</lido:displayEvent>
+   
+    <lido:event>
+        <lido:eventID lido:type="local">903</lido:eventID>
+ 
+        <lido:eventType>
+            <lido:conceptID lido:type="local">300054766</lido:conceptID>
+            <lido:term>exhibition</lido:term>
+        </lido:eventType>
+        <lido:eventName>
+            <lido:appellationValue>2016 - Long Gallery 408</lido:appellationValue>
+   <lido:sourceAppellation>Yale Center for British Art</lido:sourceAppellation>
+        </lido:eventName>
+    
+        
+  
+   
+            <lido:eventActor>
+                <lido:displayActorInRole>Yale Center for British Art </lido:displayActorInRole>
+    <lido:actorInRole>
+                    <lido:actor lido:type="">
+                        <lido:actorID lido:source="TMS" lido:type="local">1281</lido:actorID>
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                           
+      
+                        <lido:nameActorSet>
+                            <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+                                <lido:sourceAppellation/>
+                        </lido:nameActorSet>
+      
+                          
+                        
+                        <lido:vitalDatesActor>
+                            <lido:earliestDate lido:type="estimatedDate">1977</lido:earliestDate>
+                            <lido:latestDate lido:type="estimatedDate">9999</lido:latestDate>
+                        </lido:vitalDatesActor>
+                        
+                    </lido:actor>
+            
+                    </lido:actorInRole>
+            </lido:eventActor>
+            
+   
+            <lido:eventDate> 
+                <lido:displayDate></lido:displayDate>
+                <lido:date>
+                    <lido:earliestDate>2016-03-29</lido:earliestDate>
+                    <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:eventDate>
+ 
+            
+            <lido:eventPlace>
+                <lido:displayPlace>Yale Center for British Art</lido:displayPlace>
+                <lido:place lido:geographicalEntity="geographic location">
+                <lido:placeID lido:source="TGN" lido:type="Geo Location"></lido:placeID>
+                    <lido:namePlaceSet>
+                        <lido:appellationValue lido:label="Site">Yale Center for British Art</lido:appellationValue>
+                    </lido:namePlaceSet>
+                   
+                    
+                    
+                    
+                     
+                   </lido:place>
+            </lido:eventPlace>
+  
+  
+ </lido:event>
+</lido:eventSet>
+   
+   
+    
+                            <lido:eventSet>
+       
+                                <lido:event>
+                                    <lido:eventID lido:type="TMS">153</lido:eventID>
+ 
+                                    <lido:eventType>
+                                        <lido:conceptID lido:source="AAT" lido:type="local">300157782</lido:conceptID>
+                                        <lido:term>acquisition</lido:term>
+   
+                                    </lido:eventType>
+                                    <lido:eventActor>
+                                        <lido:displayActorInRole>Yale Center for British Art</lido:displayActorInRole>
+                                        <lido:actorInRole>
+                                            <lido:actor lido:type="institution">
+                                                <lido:actorID lido:source="YCBA" lido:type="local">1281</lido:actorID>
+                                                
+           <lido:nameActorSet>
+           
+            
+                                                  <lido:appellationValue lido:pref="alternate">YCBA</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">BAC</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="preferred">Yale Center for British Art</lido:appellationValue>
+        
+            
+                                                  <lido:appellationValue lido:pref="alternate">British Art Center</lido:appellationValue>
+        
+            
+            
+           </lido:nameActorSet>
+          <lido:nationalityActor/>
+                                                <lido:vitalDatesActor>
+                                                    <lido:earliestDate lido:label="estimatedDate" lido:type="">1977</lido:earliestDate>
+                                                    <lido:latestDate lido:label="estimatedDate" lido:type="">9999</lido:latestDate>
+                                                </lido:vitalDatesActor>
+                                                <lido:genderActor/>
+                                            </lido:actor>
+                                            <lido:roleActor>
+                                                <lido:conceptID lido:source="AAT" lido:type="local" lido:label="Acquisition related role">300203630</lido:conceptID>
+                                                <lido:term>Owner</lido:term>
+                                            </lido:roleActor>
+                                            <lido:attributionQualifierActor/>
+                                        </lido:actorInRole>
+                                    </lido:eventActor>
+                                    <lido:culture/>
+                                    <lido:eventDate>
+                                        <lido:displayDate>1973</lido:displayDate>
+                                        <lido:date>
+                                            <lido:earliestDate>1973</lido:earliestDate>
+                                            <lido:latestDate>1973</lido:latestDate>
+                                        </lido:date>
+                                    </lido:eventDate>
+ 
+                                    <lido:periodName/>
+                                   <lido:eventPlace/>
+                                    <lido:eventMethod>
+                                        <lido:conceptID lido:type="local" lido:source="YCBA">0</lido:conceptID>
+                                        <lido:term>not selected</lido:term>
+                                    </lido:eventMethod>
+                                </lido:event>
+       
+                            </lido:eventSet>
+      
+            
+   
+   
+    
+   
+   </lido:eventWrap>
+   
+  
+        <lido:objectRelationWrap>
+  
+  
+  
+            <lido:subjectWrap>
+   <lido:subjectSet> 
+   <lido:subject lido:type="description">                 
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">15637</lido:conceptID>
+      <lido:term>portrait</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">199056</lido:conceptID>
+      <lido:term>papers</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">28051</lido:conceptID>
+      <lido:term>book</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25625</lido:conceptID>
+      <lido:term>judge</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">37772</lido:conceptID>
+      <lido:term>chair</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">37564</lido:conceptID>
+      <lido:term>curtain</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">56179</lido:conceptID>
+      <lido:term>gesture</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">10279</lido:conceptID>
+      <lido:term>interior</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">25928</lido:conceptID>
+      <lido:term>man</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">55866</lido:conceptID>
+      <lido:term>allegory</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">17437</lido:conceptID>
+      <lido:term>Native American</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">178802</lido:conceptID>
+      <lido:term>costume</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">36869</lido:conceptID>
+      <lido:term>shield</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">33618</lido:conceptID>
+      <lido:term>painting (visual work)</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectConcept>
+      <lido:conceptID lido:source="AAT" lido:type="subjectConcept">39548</lido:conceptID>
+      <lido:term>table</lido:term>
+     </lido:subjectConcept>
+ 
+        
+       
+         
+     <lido:subjectActor>
+      <lido:displayActor>Wilmot, Sir John Eardley Eardley-, first baronet (1783–1847), politician and colonial administrator</lido:displayActor>
+      <lido:actor lido:type="constituent">
+      <lido:actorID lido:source="local" lido:type="subjectActor">-1</lido:actorID>
+      <lido:nameActorSet>
+       <lido:appellationValue>Wilmot, Sir John Eardley Eardley-, first baronet (1783–1847), politician and colonial administrator</lido:appellationValue>
+      </lido:nameActorSet>
+ 
+      </lido:actor>
+     </lido:subjectActor>
+  
+        
+         
+   </lido:subject>
+   </lido:subjectSet>
+   </lido:subjectWrap>
+     
+ 
+    
+            <lido:relatedWorksWrap>
+       
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>William Roberts, /Sir William Beechey, R. A., /Duckworth and Co., New York; London, 1907, p.124, NJ18 B375 R63 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 B375 R63 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">491807</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">201</lido:objectID>
+      <lido:objectNote> William Roberts, Sir William Beechey, R. A., Duckworth and Co., New York; London, 1907, p.124, NJ18 B375 R63 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Helmut von Erffa, /The paintings of Benjamin West, /Yale University Press, New Haven, 1986, pp. 28, 219, 565-67, no. 718, NJ18 W52 A12 E73  + OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 W52 A12 E73  + OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">12665136</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">754</lido:objectID>
+      <lido:objectNote> Helmut von Erffa, The paintings of Benjamin West, Yale University Press, New Haven, 1986, pp. 28, 219, 565-67, no. 718, NJ18 W52 A12 E73  + OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Ann Uhry Abrams, /The valiant hero, Benjamin West and grand-style history painting, /Smithsonian Institution Press, Washington, D.C., 1985, pp. 198-199, fig. 131, NJ18 W52 A27 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 W52 A27 (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">824</lido:objectID>
+      <lido:objectNote> Ann Uhry Abrams, The valiant hero, Benjamin West and grand-style history painting, Smithsonian Institution Press, Washington, D.C., 1985, pp. 198-199, fig. 131, NJ18 W52 A27 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Sotheby's sale catalogue : Catalogue of Important Eighteenth and Nineteenth Century Pictures : 18 November 1970., /Sotheby's, London, November 18, 1970, pp. 40-41, lot  60, Auction Catalogues (YCBA)  , Also available ion microfilm : Film B12, reel 160. (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Auction Catalogues (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1055</lido:objectID>
+      <lido:objectNote> Sotheby's sale catalogue : Catalogue of Important Eighteenth and Nineteenth Century Pictures : 18 November 1970., Sotheby's, London, November 18, 1970, pp. 40-41, lot  60, Auction Catalogues (YCBA)  , Also available ion microfilm : Film B12, reel 160. (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/[ Front Matter ] : Sotheby's Advertisement for Sale on November 18, 1970 (Important Eighteenth and Nineteenth Century Pictures), /Burlington Magazine, vol. 112,no.812, November 1970, p. xkvii, N1 B87 + (YCBA)  , Available online through JStor.  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N1 B87 + (YCBA)</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">1057</lido:objectID>
+      <lido:objectNote> [ Front Matter ] : Sotheby's Advertisement for Sale on November 18, 1970 (Important Eighteenth and Nineteenth Century Pictures), Burlington Magazine, vol. 112,no.812, November 1970, p. xkvii, N1 B87 + (YCBA)  , Available online through JStor.   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Exhibition Catalogue. 1812. 44th., /Exhibition of the Royal Academy of Arts, no. 44, Royal Academy of Arts, London, 1812, p. 5, no. 58, N5054 A53 29-49 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N5054 A53 29-49 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">5398471</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2115</lido:objectID>
+      <lido:objectNote> Exhibition Catalogue. 1812. 44th., Exhibition of the Royal Academy of Arts, no. 44, Royal Academy of Arts, London, 1812, p. 5, no. 58, N5054 A53 29-49 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>H. C. G. Matthew, /Oxford dictionary of national biography, in association with the British Academy : from the earliest times to the year 2000, /vol. 59, Oxford University Press, Oxford ; New York, 2004, p. 468, DA28 .D5 2004  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">DA28 .D5 2004</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">54778415</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2197</lido:objectID>
+      <lido:objectNote> H. C. G. Matthew, Oxford dictionary of national biography, in association with the British Academy : from the earliest times to the year 2000, vol. 59, Oxford University Press, Oxford ; New York, 2004, p. 468, DA28 .D5 2004   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Algernon Graves, /The Royal Academy of Arts, A complete dictionary of contributors and their work from its foundation in 1769 to 1904, /, Henry Graves &amp; Co., London, 1905 - 1906, vol. 8, p. 220, 1812, no. 58, N5054 G73 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N5054 G73 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">02099022</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2290</lido:objectID>
+      <lido:objectNote> Algernon Graves, The Royal Academy of Arts, A complete dictionary of contributors and their work from its foundation in 1769 to 1904, , Henry Graves &amp; Co., London, 1905 - 1906, vol. 8, p. 220, 1812, no. 58, N5054 G73 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Hugh Honour, /The Image of the Black in Western Art  Vol. 4   From the American Revolution to World War I, Part 1 Slaves and Liberators, /vol. 4, part 1, Belknap Press of Harvard University Press, Cambridge, MA, 1989, pp. 100-01, 321 note 256, fig. 51, N8232 .I42 2010  vol. 4:1 + OVERSIZE (YCBA)  , Citations are to Vol. 4, Part 1  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N8232 .I42 2010  vol. 4:1 + OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">775740012</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2586</lido:objectID>
+      <lido:objectNote> Hugh Honour, The Image of the Black in Western Art  Vol. 4   From the American Revolution to World War I, Part 1 Slaves and Liberators, vol. 4, part 1, Belknap Press of Harvard University Press, Cambridge, MA, 1989, pp. 100-01, 321 note 256, fig. 51, N8232 .I42 2010  vol. 4:1 + OVERSIZE (YCBA)  , Citations are to Vol. 4, Part 1   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Linda Landis, /Benjamin West's Portrait of John Eardley-Wilmot, /Yale Center for British Art, New Haven, Ct., 1983, p. 1, V0102  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">V0102</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">54244385</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2652</lido:objectID>
+      <lido:objectNote> Linda Landis, Benjamin West's Portrait of John Eardley-Wilmot, Yale Center for British Art, New Haven, Ct., 1983, p. 1, V0102   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Mary Beth Norton, /Eardley-Wilmot, Britannia, and the Loyalists: A Painting by Benjamin West, /Perspectives in American History, vol. 6, 1972, pp. 119-131, E11 P47 (SML)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">E11 P47 (SML)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">1606485</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2653</lido:objectID>
+      <lido:objectNote> Mary Beth Norton, Eardley-Wilmot, Britannia, and the Loyalists: A Painting by Benjamin West, Perspectives in American History, vol. 6, 1972, pp. 119-131, E11 P47 (SML)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Marshall B. Davidson, /Horizon History of the World in 1776, /American Heritage Publishing Co., New York, 1975, p. 319, D289 D35 OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">D289 D35 OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">1502442</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2655</lido:objectID>
+      <lido:objectNote> Marshall B. Davidson, Horizon History of the World in 1776, American Heritage Publishing Co., New York, 1975, p. 319, D289 D35 OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Maya Jasanoff, /Other side of Revolution: Loyalists in the Brititsh Empire, /The William and Mary Quarterly, vol. 65, April 2008, pp. 217-222, F221 W55  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">F221 W55</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">02637630</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2657</lido:objectID>
+      <lido:objectNote> Maya Jasanoff, Other side of Revolution: Loyalists in the Brititsh Empire, The William and Mary Quarterly, vol. 65, April 2008, pp. 217-222, F221 W55   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Ruth S. Kraemer, /Drawings by Benjamin West and His Son Raphael Lamar West, /The Morgan Library &amp; Museum, New York, 1975, pp.52-53, no. 93, NJ18 W52 K73 OVERSIZE (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">NJ18 W52 K73 OVERSIZE (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">02526079</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2658</lido:objectID>
+      <lido:objectNote> Ruth S. Kraemer, Drawings by Benjamin West and His Son Raphael Lamar West, The Morgan Library &amp; Museum, New York, 1975, pp.52-53, no. 93, NJ18 W52 K73 OVERSIZE (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Simon Schama, /Rough Crossings: Britain, the Slaves and the American Revolution., /BBC Books, London, 2005, p. 179, plate 10, E446 S326 2005 (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">E446 S326 2005 (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">60741030</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2659</lido:objectID>
+      <lido:objectNote> Simon Schama, Rough Crossings: Britain, the Slaves and the American Revolution., BBC Books, London, 2005, p. 179, plate 10, E446 S326 2005 (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>John Eardley-Wilmot, /Historical View of the commission for Enquiring into the Losses, Services, and Claims of the American loyalists, at the Close of the War Between Great Britain and Her Colonies, in 1783, /J Nichols, Son, and Bentley, London, 1815, pp. vii-viii, CB 18 880  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">CB 18 880</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">09803477</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2660</lido:objectID>
+      <lido:objectNote> John Eardley-Wilmot, Historical View of the commission for Enquiring into the Losses, Services, and Claims of the American loyalists, at the Close of the War Between Great Britain and Her Colonies, in 1783, J Nichols, Son, and Bentley, London, 1815, pp. vii-viii, CB 18 880   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>James H. Stark, /Loyalists of Massachusetts and the Other Side of the American Revolution, /Boston, 1910, pp. 213-214, CH7 41 (SML)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">CH7 41 (SML)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">1655711</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2661</lido:objectID>
+      <lido:objectNote> James H. Stark, Loyalists of Massachusetts and the Other Side of the American Revolution, Boston, 1910, pp. 213-214, CH7 41 (SML)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Susan Rather, /Benjamin West, John Gaft, and the Biography of 1816, /Art Bulletin, vol. 86, June 2004, pp. 329, 342, N11 C4 86 (oversize serials) (YCBA) (HAAS)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N11 C4 86 (oversize serials) (YCBA) (HAAS)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">5784747</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2662</lido:objectID>
+      <lido:objectNote> Susan Rather, Benjamin West, John Gaft, and the Biography of 1816, Art Bulletin, vol. 86, June 2004, pp. 329, 342, N11 C4 86 (oversize serials) (YCBA) (HAAS)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/Royal Academy, /Morning Chronicle, Issue No. 13414, May 5, 1812, p. 3, Available Online: 19th Century British Library Newspapers  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Available Online: 19th Century British Library Newspapers</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2663</lido:objectID>
+      <lido:objectNote> Royal Academy, Morning Chronicle, Issue No. 13414, May 5, 1812, p. 3, Available Online: 19th Century British Library Newspapers   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/[ Advertisement ] : Sotheby's  :  Important Eighteenth and Nineteenth Century Pictures [Sale date : 18 November 1970 ], , /The Times (London), London, November 10. 1970, p. 22, Available online : Times Digital Archive  , Also available on Microfilm : An T482 (SML)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Available online : Times Digital Archive</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2665</lido:objectID>
+      <lido:objectNote> [ Advertisement ] : Sotheby's  :  Important Eighteenth and Nineteenth Century Pictures [Sale date : 18 November 1970 ], , The Times (London), London, November 10. 1970, p. 22, Available online : Times Digital Archive  , Also available on Microfilm : An T482 (SML)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Geraldine Keen, /£68,000 for a George Stubbs Horse and Groom, /The Times (London), London, Thursday, November 19, 1970, p. 5, Available online :  Times Digital Archive  , Also available on Microfilm : An T482 (SML)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Available online :  Times Digital Archive</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2666</lido:objectID>
+      <lido:objectNote> Geraldine Keen, £68,000 for a George Stubbs Horse and Groom, The Times (London), London, Thursday, November 19, 1970, p. 5, Available online :  Times Digital Archive  , Also available on Microfilm : An T482 (SML)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Dominic Aidan Bellenger, /French Exiled Clergy in the British Isles After 1789, /Bath, England: Downside Abbey, 1986, pp. vi, 14, BX4676 B44 1986  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">BX4676 B44 1986</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">16407423</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2667</lido:objectID>
+      <lido:objectNote> Dominic Aidan Bellenger, French Exiled Clergy in the British Isles After 1789, Bath, England: Downside Abbey, 1986, pp. vi, 14, BX4676 B44 1986   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Lewis Einstein, /Divided Loyalties: Americans in England During the War of Independence, /Cobden-Sanderson, London, 1933, pp. 241-242, CB18 739  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">CB18 739</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">1988131</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2668</lido:objectID>
+      <lido:objectNote> Lewis Einstein, Divided Loyalties: Americans in England During the War of Independence, Cobden-Sanderson, London, 1933, pp. 241-242, CB18 739   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>/The Annual Biography and Obituary for the Year 1817, /vol 1, Longman, London, 1817, p. 40, Bd8 5  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">Bd8 5</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">6080761</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2669</lido:objectID>
+      <lido:objectNote> The Annual Biography and Obituary for the Year 1817, vol 1, Longman, London, 1817, p. 40, Bd8 5   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>John Eardley-Wilmot, /Letter to Benjamin West, , /12 June 1809, Box 2 Folder 57, OSB MSS 54 (BRBL)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">OSB MSS 54 (BRBL)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">702147043</lido:objectID>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2670</lido:objectID>
+      <lido:objectNote> John Eardley-Wilmot, Letter to Benjamin West, , 12 June 1809, Box 2 Folder 57, OSB MSS 54 (BRBL)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Barry Cahill, /Black Loyalist Myth in Atlantic Canada, /Acadiensis, vol 29, Autumn 1999, p. 76, F1035 8 A22  , Available online via JSTOR  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">F1035 8 A22</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">1670823</lido:objectID>
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">2671</lido:objectID>
+      <lido:objectNote> Barry Cahill, Black Loyalist Myth in Atlantic Canada, Acadiensis, vol 29, Autumn 1999, p. 76, F1035 8 A22  , Available online via JSTOR   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+      
+    <lido:relatedWorkSet>
+     <lido:relatedWork>
+      <lido:displayObject>Susan Rather, /The American school : artists and status in the late-colonial and early national era, /Yale University Press, New Haven, 2016, pp. 206 (color detail), 213, 214, fig. 138, N6507 .R38 2016  (YCBA)  </lido:displayObject>
+     <lido:object>
+      <lido:objectWebResource/>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <lido:objectID lido:type="local" lido:source="LC Call Number">N6507 .R38 2016  (YCBA)</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="OCLC Number">910504269</lido:objectID>
+      
+      <lido:objectID lido:type="local" lido:source="YCBA">3585</lido:objectID>
+      <lido:objectNote> Susan Rather, The American school : artists and status in the late-colonial and early national era, Yale University Press, New Haven, 2016, pp. 206 (color detail), 213, 214, fig. 138, N6507 .R38 2016  (YCBA)   </lido:objectNote>
+     </lido:object>
+     </lido:relatedWork>
+     <lido:relatedWorkRelType>
+      <lido:conceptID  lido:type="local" lido:source="publication"></lido:conceptID>
+       <lido:term>related to</lido:term>
+     </lido:relatedWorkRelType>
+    </lido:relatedWorkSet>
+ 
+     
+    
+    
+    
+   </lido:relatedWorksWrap>
+  </lido:objectRelationWrap>
+  
+ </lido:descriptiveMetadata>
+ 
+ 
+ 
+<lido:administrativeMetadata xml:lang="eng">
+    
+    <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object ownership">500303557</lido:conceptID>
+                
+            </lido:rightsType>
+            
+            <lido:rightsHolder>   
+              
+    <lido:legalBodyID lido:type="">500303557</lido:legalBodyID>
+   
+   
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+  
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+ 
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Yale Center for British Art, Paul Mellon Collection</lido:creditLine>
+        </lido:rightsWorkSet>
+        
+        
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+                <lido:conceptID lido:source="YCBA" lido:type="local" lido:label="object copyright">300055611</lido:conceptID>
+                <lido:term>public domain</lido:term>
+   
+    <lido:term lido:label="url">http://hdl.handle.net/10079/w6m90dq</lido:term>
+            </lido:rightsType>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Administrator"></lido:legalBodyID>
+  
+                
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+         
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+  
+            </lido:rightsHolder>
+            
+            <lido:rightsHolder>
+                <lido:legalBodyID lido:type="local" lido:label="Rights Holder"></lido:legalBodyID>
+  
+    
+                <lido:legalBodyName>
+                    <lido:appellationValue></lido:appellationValue>
+     
+                </lido:legalBodyName>
+                
+                <lido:legalBodyWeblink></lido:legalBodyWeblink>
+   
+            </lido:rightsHolder>
+            
+            <lido:creditLine>Public Domain</lido:creditLine>
+                
+           </lido:rightsWorkSet>
+             
+                
+    </lido:rightsWorkWrap>
+    
+    <lido:recordWrap>
+        
+        <lido:recordID lido:type="local">153</lido:recordID>
+        
+        <lido:recordType>
+            <lido:conceptID lido:source="AAT" lido:type="local">300133025</lido:conceptID>
+            <lido:term>Item</lido:term>
+       
+        </lido:recordType>
+ 
+        
+        <lido:recordSource>
+            <lido:legalBodyID lido:type="local">Yale Center for British Art</lido:legalBodyID>
+            <lido:legalBodyName>
+                <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://britishart.yale.edu</lido:legalBodyWeblink>
+        </lido:recordSource>
+        
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">http://collections.britishart.yale.edu/vufind/Record/1666586</lido:recordInfoLink>
+        </lido:recordInfoSet>
+        
+        <lido:recordInfoSet>
+            <lido:recordInfoID lido:type="url" lido:source="YCBA">oai:tms.ycba.yale.edu:153</lido:recordInfoID>
+        </lido:recordInfoSet>
+        
+    </lido:recordWrap>
+    
+    <lido:resourceWrap>
+        <lido:resourceSet>
+            
+            <lido:resourceRepresentation lido:type="thumb">
+                <lido:linkResource lido:formatResource="jpg">
+                    
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/153/type/2/format/1
+                    
+                    
+                    
+                    
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="large">
+                <lido:linkResource lido:formatResource="jpg">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/153/type/2/format/3
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="list">
+                <lido:linkResource lido:formatResource="json">
+                    http://deliver.odai.yale.edu/info/repository/YCBA/object/153/type/2?output=jsonp&amp;callback=?
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="original">
+                <lido:linkResource lido:formatResource="tif">
+                    http://deliver.odai.yale.edu/content/repository/YCBA/object/153/type/2/format/6
+                </lido:linkResource>
+            </lido:resourceRepresentation>
+            
+            <lido:resourceType>
+                <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            
+            <lido:resourceSource lido:type="image source">
+                <lido:legalBodyName>
+                    <lido:appellationValue>Yale Center for British Art</lido:appellationValue>
+                </lido:legalBodyName>
+                <lido:legalBodyWeblink>http://collection.britishart.yale.edu/id/page/thesauri/ULAN/500303557</lido:legalBodyWeblink>
+  
+            </lido:resourceSource>
+            
+            <lido:rightsResource>
+                <lido:rightsType>
+                    <lido:conceptID lido:source="" lido:type="url">http://hdl.handle.net/10079/gb5mkww</lido:conceptID>
+                  
+                    <lido:term>image use terms</lido:term>
+                </lido:rightsType>
+                
+                
+                
+                <lido:rightsHolder>
+                   
+                    <lido:legalBodyName>
+                        <lido:appellationValue></lido:appellationValue>
+                    </lido:legalBodyName>
+                </lido:rightsHolder>
+    <lido:creditLine lido:label="image restrictions"></lido:creditLine>
+            </lido:rightsResource>
+        </lido:resourceSet>
+    </lido:resourceWrap>
+</lido:administrativeMetadata>
+  
+</lido:lido>
+</metadata>
+</record>
