@@ -1,4 +1,4 @@
-
+No longer supported as of August 2021
 
 XML files for the American Art Collaborative project.
 These are LIDO XML files, minus curatorial comments. In their state here, they are CC0.
